@@ -1242,7 +1242,7 @@ Prefix-LM 一次性接收整个前文，然后生成接下来的文本。
 
 batch normer和layer normer都是利用数据的均值和方差来进行数据的归一化操作。ab是缩放因子
 
-![](.\img\normer.jpg)
+![](./img/normer.jpg)
 
 batch normer:https://zhuanlan.zhihu.com/p/685413979
 
@@ -1619,7 +1619,7 @@ https://zhuanlan.zhihu.com/p/106849583
 
 https://github.com/answerlink/IntelliQ
 
-![](.\img\3.png)
+![](./img/3.png)
 
 
 
@@ -2107,7 +2107,7 @@ def critic_loss_fn(self, values, old_values, returns, mask):
 
 ​	首先这里有个策略的说法，即之前的模型的迭代方式，可以理解为一个学生要在高三考大学了，我们需要知道这个学生之前是怎么学习的。这个学习的过程其实就是模型输出的过程，其中主要分为两个模型，一个critic对模型进行打分，一个actor对模型进行输出。
 
-​	![](.\img\ppo1.webp)
+​	![](./img/ppo1.webp)
 
 ​	首先是采样的过程，old_policy从prompt的池子中抽出M个prompt，对每个prompt进行采样。我们会得到三个数据，response：M个字符串，每个字符串包含N个token，old_log_probs：演员输出的 𝑀×𝑁 的张量，包含了response中token的对数概率log(p(token|context))。old_values,评论家输出的M×N的张量，即每次的奖励值。
 
@@ -2220,7 +2220,7 @@ RLHF算法：https://www.cnblogs.com/jiangxinyang/p/17374278.html
 
 ​	dpo也是一种强化学习的训练方式。相比于ppo来说的好处是绕过了评分模型，最终的模型主要有两个，一个是actor_model,一个是ref模型，数据的话需要两份，一份是SFT的微调数据，另一份是人工标注的偏好数据。
 
-![](D:\BaiduSyncdisk\简历及项目\img\dpo.png)
+![](./img/dpo.png)
 
 ​	使用原始的模型通过sft微调得到两个模型，Trained LM和Frozen LM,公式如下：
 $$
