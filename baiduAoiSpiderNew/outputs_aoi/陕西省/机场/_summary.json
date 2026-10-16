@@ -1,0 +1,9 @@
+{
+  "category": "机场",
+  "province": "陕西省",
+  "region_mode": "city_county",
+  "crs": "bd09",
+  "poi_total": 18,
+  "fence_success": 11,
+  "fence_failed": 7
+}

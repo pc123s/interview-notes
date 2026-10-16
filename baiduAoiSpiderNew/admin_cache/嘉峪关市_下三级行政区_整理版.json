@@ -1,0 +1,25 @@
+{
+  "province": "嘉峪关市",
+  "cities": [
+    {
+      "name": "雄关街道",
+      "districts": []
+    },
+    {
+      "name": "钢城街道",
+      "districts": []
+    },
+    {
+      "name": "新城镇",
+      "districts": []
+    },
+    {
+      "name": "峪泉镇",
+      "districts": []
+    },
+    {
+      "name": "文殊镇",
+      "districts": []
+    }
+  ]
+}

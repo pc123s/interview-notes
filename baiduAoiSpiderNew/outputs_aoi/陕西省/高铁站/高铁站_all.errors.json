@@ -1,0 +1,2182 @@
+[
+  {
+    "uid": "9fe3fe5c9ba6997a1b94c630",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5cd2026a91c57bd404fef523",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2f717c08fdcb49c8922ca3ab",
+    "name": "礼泉高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "28776cc8a59f95edf7e73b51",
+    "name": "锦江之星(咸阳杨凌高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "de57906591c57f4abda24032",
+    "name": "云朵酒店(咸阳乾县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2930d728f6b9813b81288a1f",
+    "name": "品家酒店(乾陵高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f0e1edbb60ead11dd4b74e8a",
+    "name": "塞纳斯酒店(乾县高铁站乾陵店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1fe3e4d204318113364aae1a",
+    "name": "莱咔酒店(咸阳乾县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1c10edddb5577331902ca353",
+    "name": "美豪丽致酒店(咸阳乾县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5200f7ba7e8d11c6e9f85389",
+    "name": "咸阳西站-南进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "80c3597544634ba597ec8423",
+    "name": "尚客优酒店(彬州名仕花园高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "715249e4d13f8a1ab05c6a64",
+    "name": "怡致酒店(咸阳乾县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "90cd4e7e02062c548e7727b3",
+    "name": "特来电充电站(冠群新能源杨凌示范区高铁桥下充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "619c664925da0f5943024596",
+    "name": "向日葵共享自习室(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "310aac698980480803ec0150",
+    "name": "全卓酒店(咸阳西站高铁站宝泉路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ee5be3be604d3cb18f55ec10",
+    "name": "乾县站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "77740820fab58de4c809f099",
+    "name": "朝阳教育(玉泉高铁站校区)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "07453c7fbcca13fe4254d7af",
+    "name": "莱咔酒店(咸阳乾县高铁站店)门前停车场-入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b894a150f7984caf11882472",
+    "name": "西银高铁中继4站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "416372b7e57a0568abf0cd1f",
+    "name": "乾县站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8a9850eb5224fad24d554752",
+    "name": "锦江之星(咸阳杨凌高铁站店)-地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "cdc62d8882923c703fe23116",
+    "name": "铁塔能源充电站(陕西咸阳高铁充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5240f9a80bec93b5ab175ae2",
+    "name": "尚景轩酒店(乾县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b096a5ec3cdae2f5b25c6aad",
+    "name": "汉诺商务快捷酒店(乾县高铁站店)-大堂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f591b7477099e3c9970319d7",
+    "name": "盛世唐宫酒店(乾县高铁站店)-南门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a3ada9d66a6b2bef2b11d179",
+    "name": "咸阳站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5c4d15b57c6bae4c32870a56",
+    "name": "咸阳西站-北进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "43af65baf6d52755f942b2bb",
+    "name": "哈啰租车(咸阳西高铁站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "815f51605f4c8586601809f3",
+    "name": "迈德思客·汉堡·烤鸡(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f0f6df354d43960eabf729d5",
+    "name": "盛世唐宫酒店(乾县高铁站店)-西门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "93b15a0c12be14a60482c264",
+    "name": "中铁十九局银西高铁拌合站宿舍区",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5bab9a7c10994910f7e73b1c",
+    "name": "杨凌高铁广场站自行车租赁点",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "87396856904915939868b4c5",
+    "name": "莱咔酒店(咸阳乾县高铁站店)-门前停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "39696ff52bbea9c8deee8b2a",
+    "name": "高铁西站北广场站充电站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1806075435b917ef8b2fb520",
+    "name": "芭芭多芦荟美容(咸阳高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "18d88a80152265290a5cb343",
+    "name": "盛世唐宫酒店(乾县高铁站店)-地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "31da96c155b44f12882fb57b",
+    "name": "中铁十九局银西高铁拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d5f388c6de7e3f97bbbd63fb",
+    "name": "丽减美瘦吧·瘦身塑形(光明城祥力阳光时代店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "cc9c54215a12941d2902e122",
+    "name": "乾县新都市酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a8049c1e4179b39ba7c756c0",
+    "name": "街电(喆啡酒店咸阳秦都高铁站世纪西路店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "afb9d94c353f4fc7f423105a",
+    "name": "乾县站-站前广场西侧地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "33177e2a5eac34df33169b89",
+    "name": "盛世唐宫酒店(乾县高铁站店)-大堂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f65adbfdb9abc376c8213d8d",
+    "name": "咸阳西站-南出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dcb5ad233a83d4cfadcb6666",
+    "name": "比亚迪闪充汽车充电站(咸阳杨凌高铁南站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6249e1cc3b4c355a4d2fdf03",
+    "name": "盛世唐宫酒店(乾县高铁站店)地上停车场-南出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2779296c1168ce910b1cc77f",
+    "name": "绿地控股·杨凌城际空间站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "acef157720e40bb14207c164",
+    "name": "盛世唐宫酒店(乾县高铁站店)地上停车场-西出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "11f450ac102a0f246d20b92d",
+    "name": "蔚景云充电站(杨凌示范区水运东路高铁桥下充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bd4a75562573f4722806ce81",
+    "name": "乾县站-站前广场东侧地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8a9b79b26c21b2d5902ca3c5",
+    "name": "咸阳综合客运枢纽",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c0f4673e69e62835b45f1e06",
+    "name": "咸阳西站-北出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "94f689c3cf69fd1231870af8",
+    "name": "咸阳北站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "972a603896ab1e2b93114c7b",
+    "name": "咸阳高客综合枢纽站-停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ad83602323ecea4bab0dd8c0",
+    "name": "凌师傅特色野菜蘸水面",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fbac527254e87e6f2fb90804",
+    "name": "丽彩天禧酒店-大堂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aea79057cddfe4bc4e2fdfbb",
+    "name": "西安铁路公安局西安公安处彬州东站派出所",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "704ce4c8c9756368b6f42fca",
+    "name": "茶话弄(咸阳西地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1c2f751b6a44ad65dc1e526a",
+    "name": "杨凌鑫德隆家具超市",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "965bd1489bdcb1651df74d91",
+    "name": "秦都高铁枢纽换乘中心西北侧-停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "69316bae1244a1377ab55c6b",
+    "name": "高铁南站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "51984d74ad507549b11e36ac",
+    "name": "昱品宣便利店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "526d8e315cc333852fb96dff",
+    "name": "乾县站站前广场东侧地上停车场-南入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ac123e56577a34430c0a709c",
+    "name": "乾县中通快运",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7be525142961b46ae5e965ae",
+    "name": "莉莉延安沾沾(乾县店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c1614df6fcca5b448f55ec82",
+    "name": "乾县站站前广场东侧地上停车场-北出口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9c20c02e7bebcc642bd7abf6",
+    "name": "汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ed3698e77c508a16d72ce2b3",
+    "name": "彬州吉和酒店(公刘街店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ecf5ffa69ce952a7f6c59c61",
+    "name": "山阳县高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "df3f689e80076a07e6e965af",
+    "name": "高铁新城加油站(商洛站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7991b5053f7a3833b35c6aa4",
+    "name": "西十高铁拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "62fb50a0dcde684c4107c190",
+    "name": "华龙车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4a9049450aaf5db0a80dd848",
+    "name": "高铁十三路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "172fe2e4d51ff72233621285",
+    "name": "西十高铁陕西段XSZQ五标项目经理部三号拌和站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c19876829b455c63343a7123",
+    "name": "刘家村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "71f444a35645cf46d5b74eee",
+    "name": "翠屏公园",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "68795b8237d67a2b223bf223",
+    "name": "寇家沟村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0faa6c3eace3eb35095cb3e0",
+    "name": "中铁三局西康高铁项目经理部四号拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5f9372a94bffaf065e0d02c7",
+    "name": "马家村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ec8b9a73a899e22779dbd235",
+    "name": "轻茉原叶鲜奶茶(山阳高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e0d6690db66e3574c9c3dbe9",
+    "name": "高铁一路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2d65b388c691408ef7eafca5",
+    "name": "体育场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fef25de22ad3d1e69b68b47a",
+    "name": "石头梁村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "299b5f1fd1d4a267c356ac21",
+    "name": "第三中学",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f601d72fcbcfd726e5073847",
+    "name": "隆元·基曼斯酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fa0a4118fce56a21d42ce202",
+    "name": "十里铺街办",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0abb31bbc2c11c7d16c905ac",
+    "name": "丰阳酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bf11d255da944996eee4a5dd",
+    "name": "原味山阳简餐店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "86e1afb223ae5d476a49f3a3",
+    "name": "哈啰租车(镇安-迅腾租车)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "591b715ee60853a431870abc",
+    "name": "中铁一局商洛高铁新城项目",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e3c5299bd1f09b19bea240d4",
+    "name": "西十高铁高坝协调办公室",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "86eb25071bdd32f0f6e73bca",
+    "name": "高铁十三路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e691a15bd6e86f423be4a61c",
+    "name": "商洛西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2cfe29d2fc572d3f16764377",
+    "name": "商洛西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a886d24fddff00661f3894f6",
+    "name": "商洛西站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c2857c28de2ee0def4e73ba6",
+    "name": "商洛北站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "24869cc86a195f3fb320a8ba",
+    "name": "漫川关站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "08f27113cb4ffa67873304c7",
+    "name": "东站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "04cb43122ae43c736240a9ca",
+    "name": "漫川关站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ae35302f33a8bd2c5abbbcaf",
+    "name": "高铁站(客运枢纽站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d35affc799328241a8175a76",
+    "name": "高铁站广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c00d438b80b2739ad1f49e8d",
+    "name": "西康高铁北京铁研监理站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bf58e4704aa9081b9d82ea1c",
+    "name": "中国中铁九局高铁四号搅拌站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fd745d28e0d80dd529fc480d",
+    "name": "中铁十九局康渝高铁1号智能拌和站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d7c884d49282fc3e51e5c545",
+    "name": "中铁九局西康高铁三号搅拌站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "abb6ef08bdde5456c6f50dab",
+    "name": "中国中铁九局西康高铁级配碎石拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "73482b5678e80ecf05fef50d",
+    "name": "高铁二路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a3e1239a54e46806eee4a5cf",
+    "name": "中铁广州工程局西康高铁5标4号拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7bfc4f394bb8a0763586f49f",
+    "name": "中国福利彩票(安康高铁西站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3062eb8b65d4c4714054d745",
+    "name": "中铁十九局集团西康高铁6标段2工区二号拌和站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "20b76acda4c6ed83abf0cd2e",
+    "name": "旬阳站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "710a56f2a62527d84207c1ba",
+    "name": "安康西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8c7532c84413dd6949fc8dd1",
+    "name": "国家电网汽车充电站(秦岭服务区昆明方向)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "db16ae75a465330436b06c9a",
+    "name": "粉厂小区",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8275c6f901aabd3c95ec84a6",
+    "name": "紫阳县天和药业有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5584418d089823c993114c72",
+    "name": "紫阳县高桥镇江南燃气高桥镇直销店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "479f61a4a2be84fe931fc984",
+    "name": "田自国商店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1794450548045569f23cba16",
+    "name": "高铁三路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "58e885d28ddf0db63b221c7e",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e56080bbc884c387bea24069",
+    "name": "岐山高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a1f044eac0bce476eb56fa07",
+    "name": "京泰国际酒店(宝鸡岐山高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b497673170c233fa0d3dda21",
+    "name": "尚客优酒店(岐山高铁站陕汽集团商用车有限公司生产厂区店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4421c07361dd8b1c2902e154",
+    "name": "万澳酒店(岐山蔡家坡高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dd2f4f01a8471579e8e58299",
+    "name": "如家派柏云酒店(岐山高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b68a2ec990bd700fbea24010",
+    "name": "特来电充电站(宝鸡市岐山高铁站充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "938cfb1db67d9e05cc06a4ef",
+    "name": "华融名仕酒店(宝鸡南站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c3268c57448281e8cd04ef1c",
+    "name": "锦江之星(宝鸡高铁站店)-大堂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d9e6673769c802497bf79610",
+    "name": "哈啰租车(岐山高铁站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a03480f40c560999e812e4d0",
+    "name": "锦江之星(宝鸡高铁站店)-停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "14749c849ee1a4368733044a",
+    "name": "维也纳国际酒店(宝鸡高铁站店)地上停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3015d547f2361551b23c81f2",
+    "name": "维也纳国际酒店(宝鸡高铁站店)-地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3eaa8b66a5ed3540c72ba12b",
+    "name": "维也纳国际酒店(宝鸡高铁站店)地下停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "38addf5387fb69e8e81e9784",
+    "name": "岐山站站前广场西侧地上停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6f20e9bdbc67427ac5effba5",
+    "name": "万澳酒店(岐山蔡家坡高铁站店)门前停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b87bce6304220b9c82288a6c",
+    "name": "岐山高铁站国际商贸城擻户区改造项目推介会",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7f74a868a42e53a53617dcff",
+    "name": "维也纳国际酒店(宝鸡高铁站店)-大堂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "df8e011161b4fecbf1193736",
+    "name": "维也纳国际酒店(宝鸡高铁站店)-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4a2742eaa70022c3256e9862",
+    "name": "锦江之星(宝鸡高铁站店)停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2f94e48a6f20bc1c1a11d5ef",
+    "name": "轻茶里(岐山高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9cc68fb4bd9c078271455bf7",
+    "name": "屋头串串(高铁南站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "55cf1b6cd602ac519c09f703",
+    "name": "万澳酒店(岐山蔡家坡高铁站店)-门前停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "05ca487c293899d9c72ba161",
+    "name": "高铁岐山站国际金泰城售楼大厅",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c59f8d1b8861bdd599005026",
+    "name": "三迪佩斯酒店(宝鸡行政中心高铁站店)-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f7f51763df6899feca291580",
+    "name": "老马家八亩沟擀面皮",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2df428512ac2d05aa21de9cc",
+    "name": "三迪佩斯酒店(宝鸡行政中心高铁站店)地下停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "edb489bac370c4f7018972db",
+    "name": "蔡家坡百万平方米标准化厂房-7号门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a0b3041926672b1558f6be21",
+    "name": "哆金桌球俱乐部",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "acf2c1becd179996c26c14dd",
+    "name": "通达公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "99518a9dbcbbec2c5e0d020a",
+    "name": "福味居饭店臊子面",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4986243f2e80e43a8f1a89aa",
+    "name": "学子路-路侧停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "96e5a6e09680f3aeb220a88b",
+    "name": "陕西斯玛特精密科技有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "967b018c262bfb0b00ff2dc5",
+    "name": "宝鸡鸿远汽车零部件有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c8ba9be818be4782f72310b3",
+    "name": "宝鸡市宇丰园林绿化工程有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4547c9d01624ad066f3e1b71",
+    "name": "哈啰租车(宝鸡誉冉租车)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6b8c4c18db3ac82007fef5c6",
+    "name": "领航荣飞机动车服务站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5734e57898f2e64f364aae21",
+    "name": "国家税务总局宝鸡高新技术产业开发区税务局",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1f4160158cc57e8140e19222",
+    "name": "国家税务总局宝鸡高新技术产业开发区税务局第二税务所",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7d2f7fb6e4903be115c9054e",
+    "name": "国家税务总局宝鸡高新技术产业开发区税务局第三税务分局",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d002cbd9c3d39f18f11937f4",
+    "name": "百惠便利店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b69d5aea27418d854054d73b",
+    "name": "宝鸡永鑫东晟供应链有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "95c7e736987c5dcd1329350f",
+    "name": "香味民族宝宝面皮屋",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "22feaa92b864ad68c51e5157",
+    "name": "京泰国际酒店中餐厅",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aa5e7b7b8f60b99ff90cad38",
+    "name": "华融名仕酒店(宝鸡南站店)-停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c480cfd6ecde58de49fc8d2f",
+    "name": "岐山欣源手工擀面皮",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8ac3bc6e62cd2cd6ca29151e",
+    "name": "桃花源站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aa90f2fca36bc2ddfda7786a",
+    "name": "包不同包子铺",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "786457278eb51338deee8bb8",
+    "name": "眉县东站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2b0c3bd8325632939868b416",
+    "name": "凤州站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "003296950e386a2f8936eeb5",
+    "name": "中铁高铁电气装备股份有限公司-停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3fa56c947e5379614054d790",
+    "name": "宝鸡宇丰工贸有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "00f2be7480209699f503b8b8",
+    "name": "维也纳国际酒店宝鸡高铁南站店停车点-入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9c018599c5b18111b42655be",
+    "name": "卫莱电充电站(园区路汽车快充站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8497ff87819939daa0acc415",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d8ad29bb1d1e053414c8f610",
+    "name": "清悦酒店(延安火车高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2d8e4911d520f2f2d22dd650",
+    "name": "一嗨租车(延安高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "af73375b74e344216c47602d",
+    "name": "新电途充电站(洛川高铁站前广场充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "93ce330933e10b26aaf7295b",
+    "name": "神州租车(延安高铁火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "271ef22d707392e25b10939f",
+    "name": "西延高铁富县应急救援站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5cdcae599bae71ded1f49efc",
+    "name": "黄陵南站-售票处",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fab3f940bea7086ab34c49c2",
+    "name": "中铁隧道局西延高铁XYZQ-12标段项目经理2号拌和站试验站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "45aaaa3043a119fb4afc8da3",
+    "name": "蟠龙镇站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "581a90be54d608785abbbcb3",
+    "name": "黄陵车站派出所",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bd3c5a4d7af79ecb2202206c",
+    "name": "公共厕所(SX-YA-0416)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0c44994e8a8fa6d92202623d",
+    "name": "火车北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "42e349ae38ef953197f08c4b",
+    "name": "火车北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9e87904ad73833169ce3215a",
+    "name": "火车北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5cde57715cbf7f32250bd06d",
+    "name": "火车东站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ea4a3dc9bc184d2e4e5547ff",
+    "name": "高尧站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f592b13d6ef5b6e1f8f0cb36",
+    "name": "榆林站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dbf99526d1af30cc45e27438",
+    "name": "鸿然宾馆(榆林高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a26c0ab3beb5bbd451e5c53f",
+    "name": "神木西站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9d0ab8f7ea7ba00930169ba2",
+    "name": "锦界站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d83de08b12bbd8335fbe8663",
+    "name": "神木北站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aeb81ce8ad3dd335c9e33c19",
+    "name": "神木西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f88d13ce2001e1a64107c175",
+    "name": "神木北站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "46f1c7acb78455b3a3acc4bf",
+    "name": "吴堡站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ebfed3bbaf7f977006fef5fd",
+    "name": "锦东站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b9d5ed2fc9cf31e69f09f7e6",
+    "name": "吴堡站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e6d23870f6f1e137f33cba06",
+    "name": "中科智充新元重卡充电站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4711c8537c39b294d0ff236d",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4959d7edb9b6f17b25e0a09f",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "92718783b690b6d4f02d8354",
+    "name": "高铁站路口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "547aae4f185b346e09b93ad2",
+    "name": "橙季酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d208821ffea567f617b54b8a",
+    "name": "H酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "584b3e12b2b1ae0afbdc8570",
+    "name": "布丁酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6543665ea9e850999c9d68b7",
+    "name": "汉中中心广场高铁站非繁云居酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fc85f38a19bcb801441a3222",
+    "name": "云鼎商务酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bb14411fedf854d81d5800b6",
+    "name": "自然醒酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "92c193007b374c04b8bd63e4",
+    "name": "艾斯雅居酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "41a6f9fe3435da63f5e73bbc",
+    "name": "尚客优品酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8d494963cf8dafbf9c09f7d5",
+    "name": "星辰酒店(中心广场汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a91483c09baa44755e17c39d",
+    "name": "金泰轻奢酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5b716a7a90a2bd4a0a5cb32f",
+    "name": "希岸智能酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "088fc15b3d1c33d614b54b1a",
+    "name": "龙城大酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7cc699853be67e8a4c6d4631",
+    "name": "花与果酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7837f08f4a3f0123d7851f19",
+    "name": "艺龙瑞云酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f1cd68b37829566643afe68b",
+    "name": "御庭和悦酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f93f4084a1d85d09d02dd671",
+    "name": "查威尔酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fbf7352ee455292d1ef74da1",
+    "name": "汉英尚品酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c2dfd0167396067c06026f47",
+    "name": "艾米精致酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5cc9581798dc4a953ce23155",
+    "name": "加雅酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "27f80169449d1c00441a322b",
+    "name": "米畔酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b0a524fdfc290762a2d23031",
+    "name": "维也纳酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "52463fbd64ea0512ca291597",
+    "name": "景玉智能酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5f35390edd081a732102621d",
+    "name": "皇家驿站酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "63f64030ce4d5c25c16c1400",
+    "name": "锦江·凯里亚德酒店(汉中高铁站兴汉胜境店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4dee68a6c979948dc5effbc9",
+    "name": "汉中站-北出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "68054a9a674ea65a15c905b0",
+    "name": "城北高铁充电站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5c5e1d47a0c98e76ae080f76",
+    "name": "艺龙安悦酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5180afc02c3ebba74d2fdf1a",
+    "name": "汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "93f086eaf456a75445572669",
+    "name": "麗枫酒店(汉中中心广场高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6d0e4abd3c2b03a514948e73",
+    "name": "蓝渔智能酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "73478699a0c87ca9b020a841",
+    "name": "相悦美宿(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6bed0d160fddeca784154155",
+    "name": "艾斯·柏月酒店(汉中中心广场高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "56387aac1aed40753be4a68c",
+    "name": "玖栖·雅致酒店(汉中中心广场高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d7a77a36d4f2629bb42655e9",
+    "name": "百悦国际酒店(汉中高铁站万邦时代广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6570893d982d6d181fe9996f",
+    "name": "暖居民宿(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ee3e665a19c0e00338221cf9",
+    "name": "喜登豪酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1147538cd7e09272a11de9fb",
+    "name": "汉中中心广场高铁站非繁云居酒店-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ccc15382db669e91095cb33e",
+    "name": "如家华驿精选酒店(汉中市高铁站北广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "83744c43bbf4a305c17da22f",
+    "name": "幸运咖(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2a40ececedec9fdebfa8227c",
+    "name": "客莱堡(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0225552d3515fe1cc829156d",
+    "name": "利源民宿(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1ccbc63845aa99d9ede4a5bc",
+    "name": "西城院子民宿(汉中洋县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b32a69e4320140cb77026922",
+    "name": "汉中艾斯骊风酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ceb42a4d9ad90eb97adbd28f",
+    "name": "城固县城市管理局高铁站前广场综合执法中队",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dec967e52b7368fc047ce846",
+    "name": "汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1800564b55c3e6818b2fb531",
+    "name": "西成高铁汉中高铁基地",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5d6356087548d120d0ff23f1",
+    "name": "城固投控汽车充电站(高铁北站停车场)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ec1bb740090f25fe49fc8d31",
+    "name": "城固金龙宾馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5b0232ee2b941a0cb0077dae",
+    "name": "高铁南站新村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "37704c107ba998598bb98892",
+    "name": "零食很忙(陕西汉中城固石家坝农贸市场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9383bc6cc84fef88d5b74ead",
+    "name": "国家电网充电站(陕西省汉中市洋县洋县西高铁站停车场充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "35340380f0188098df1e52b4",
+    "name": "公共卫生间",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "eab5574b46a6916e471a325d",
+    "name": "京东快递(汉中洋县营业部)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0a516a23e35490fd2bd7abe8",
+    "name": "洋县龙泉山庄",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e61c504edcb7d81c8936eea3",
+    "name": "宏魁包装材料销售有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "182b8686f1e14615e215f9e9",
+    "name": "尚都智慧酒店(洋县尚都城市广场店)-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2c97a7828e96af248836eea1",
+    "name": "锦源川菜",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "474e588d9d258883f4e73bd5",
+    "name": "Ginkgo Resort银杏墅(佛坪高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "95ba68535a245ea9246e9898",
+    "name": "佛坪Ginkgo Resort银杏宿(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a6ee879a47ce85640e0a705c",
+    "name": "佛坪站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6620a4da9cfa3a88ad045787",
+    "name": "公厕",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "372ceca457a0998bb320a80b",
+    "name": "佛坪站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "08559f0174bda8ae9122e0e1",
+    "name": "东岳殿",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3de0c3988783f4c941e19273",
+    "name": "秦岭人与自然博物馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "28028038cbfe31b63617dc1a",
+    "name": "振兴中路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ff3591501e7ff25749fd3f14",
+    "name": "佛坪站-站前广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "62b9215a2c8db7cbd5b74e81",
+    "name": "县医院",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f43530cc7170b32238e4a633",
+    "name": "佛坪中学",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "79766c8bb0cb4251fda778be",
+    "name": "黄家湾",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6af4bfea283aa925bca8229c",
+    "name": "佛坪站-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0501fc2dde6b7362843304bf",
+    "name": "佛坪晨希酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9663b87faddbf96c6268589e",
+    "name": "椒溪嘉苑",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "922303df1607616ab13c8143",
+    "name": "佛坪站-公交站场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "608055240350eb42a21de9b1",
+    "name": "百鸟山庄",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9502e43937ca8f4bc42ba102",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7308c1d55d36ab11db1318e9",
+    "name": "大荔县高铁站新能源汽车充电站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d41d1888672142582bb97cbd",
+    "name": "Ｓ１０８/大荔/高铁站出口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "41d0b57d86c7c5738c1a895a",
+    "name": "Ｓ１０８/大荔/高铁站出口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "25508ec50511ab562811d16e",
+    "name": "如家酒店·neo(华阴华山北高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0b1531b15bcf32abab175ab1",
+    "name": "大荔站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "757d4d22a75b70d8a21de908",
+    "name": "都市118·精选酒店(华阴高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2636d3c86e170bc3b6147fbe",
+    "name": "远恒居酒店(华山北高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d4d3ddd505df05622b06ce76",
+    "name": "Ｓ１０８/羌白/大荔/高铁站出口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f3a5833361a6498008ccdd5b",
+    "name": "华阴木易居酒店(华山北高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "64f7ed51c881065d276e98c1",
+    "name": "特来电充电站(汽车充电站(近大荔高铁站充电站))",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2038ebda3f87174685420e8f",
+    "name": "大荔站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1c7429c8492da88e62685884",
+    "name": "特来电充电站(频阳富平高铁站充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d7c1eef34d1d7f7a87154120",
+    "name": "高铁综合维修工区",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "70627b519e0ad94aa8f72953",
+    "name": "Beautiful Meet华山高铁站店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d43fb4b3bb29cb7714948e45",
+    "name": "TOWO上品酒店(华阴华山高铁站西岳店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "964ee978d1eb804f2a02e162",
+    "name": "金钥匙租车",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "18b90b0aa310619c2b06ce44",
+    "name": "一町格民宿(华山北高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e760d874287e9ce66c3e1b32",
+    "name": "康辉旅游(大荔西城分公司高铁站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "96ec5cfb1698da89077ce8ae",
+    "name": "星星充电充电站((已下线)渭南公交故市充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "50b001a1e1d6fd820f0e6b03",
+    "name": "艺龙瑞云酒店(华山高铁北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "743442d0cbc377b8ca291558",
+    "name": "交通运输综合执法大队派驻高铁站中队",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f057ae590a383bc73b221c7b",
+    "name": "兰亭城市酒店(吾悦广场渭南北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "acf2aed5d01b61e4e507384e",
+    "name": "大荔站售票处",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6a01cdf2519526277402692d",
+    "name": "华阴市关中巷宾馆(西岳庙华山高铁站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b2c910edb7154428c8213dae",
+    "name": "大荔站-公交站场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d33cb3b037cd4c9014b54b9d",
+    "name": "永兴汽贸",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c18fb454edc504bb88db73b3",
+    "name": "大荔县旅游集散中心",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "35aaa92bc8b7552dc3364472",
+    "name": "TOWO上品酒店(华阴华山高铁站西岳店)-东门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4428a64ee89c1472e011034b",
+    "name": "大荔站-南门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2a5586048afc961496f08c51",
+    "name": "张常娥货运部",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ff028f8c90f6c5e3c91b9572",
+    "name": "希尔顿酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0ed9fd259389bd564d2fdf83",
+    "name": "大荔县非物质文化遗产展示体验馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "39c528a97c363cf1e507383e",
+    "name": "大荔满仓车厢加工厂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "62cb32d322b3e2f388f15dae",
+    "name": "亿隆便利超市",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dbf8b5cba14395fbb2077dd2",
+    "name": "大荔城管便民服务驿站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "05a3865b2e1e496e283a9f46",
+    "name": "美豪酒店(华阴华山景区游客中心华山北站店)-地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6c3e2ce748581d1448cc4af6",
+    "name": "美豪酒店(华阴华山景区游客中心华山北站店)地上停车场-出入口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9a645efcf47dbfdeeb56fa6a",
+    "name": "十四运大荔县交通运输局志愿服务站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e2922ca75fafcd44344aaeaf",
+    "name": "大荔站-警务室",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a3b38e36d76fb430f7e73b1d",
+    "name": "广场管理办公室",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "996136c7128c7f19b23c81e7",
+    "name": "携程旅游(大荔店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2061471527f4e46a08ccdd41",
+    "name": "渭南西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d8fea4436a97b0713fe231c4",
+    "name": "渭南西站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "28be36662a3ddd01902ca3ff",
+    "name": "蒲城东站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ef2516233125f47d2d4733fe",
+    "name": "高铁冷库-地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "05f499276021a94602294fa8",
+    "name": "昌海租车",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "171feca035b271dac91b952a",
+    "name": "公厕",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "134ebf3f14aa0636873304c1",
+    "name": "西安北站-南出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "85aa631740e78e6abd48426c",
+    "name": "高陵高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b855ae8b22c64bbcadcb6604",
+    "name": "西安北站-东进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "233d708f6169537df6c59c4a",
+    "name": "西安北站-北出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "767799ec4c767acc45e2740c",
+    "name": "鄠邑高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6b283c8e1e477609fda7788c",
+    "name": "西安西高铁站-1号楼",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "43af403b8351bf9c9222e0f0",
+    "name": "西安城北客运站(高铁分站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "99f40675ff59a9fa14b54b10",
+    "name": "西安北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "141b3c952f7330b9eb56fa0c",
+    "name": "西安北站-南广场东侧地上停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f7be25130bc38600a8059d1b",
+    "name": "西安东站-北进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8b1a7823bc6e6cd9abf0cd27",
+    "name": "西安北站行政中心亚朵酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "49326b7abea3519edbd89111",
+    "name": "一嗨租车(西安高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0858e6c18753c5ea40ab9a48",
+    "name": "尚客优酒店(西安高铁站北苑地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "05fc16e031d42addab0dd8e9",
+    "name": "西安城北客运站(高铁分站)-售票处",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "24d5e8ed39e3679315a19027",
+    "name": "西安环宇维景酒店(高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1555505bede5e9d81d580086",
+    "name": "维慕酒店(西安高铁北客站旗舰店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8b923799fd8b256ee0110346",
+    "name": "伊芙美素酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c75b3f734cffa46ff50e7779",
+    "name": "车匠人·西安路豹(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "74e6602e91899eb097031990",
+    "name": "保罗假日酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "08817d097a17e4a70869d96e",
+    "name": "阿房宫高铁站交通枢纽项目部",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "077f310cfda68e8eb020a814",
+    "name": "红震轩酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7defa6cb7b0495b795ca077c",
+    "name": "你可居酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "87bec3867dfbf65e2dfaa766",
+    "name": "八马茶业(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "efd37030da4e53bffb2d6122",
+    "name": "万澳酒店(西安高铁北客站行政中心地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6db021e74fc5524f0b1cc725",
+    "name": "圣非宜品酒店(西安高铁北客站地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6e35f4a3376a780e2911d154",
+    "name": "夜泊长安酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e67f79cfc0bc9df700ec01b2",
+    "name": "Y酒店(西安高铁北站凤城十二路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "cc488b7af608dfa79cec2b84",
+    "name": "不晚·设计民宿(西安高铁北客站元朔路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3e56b7a0e078268c601c6776",
+    "name": "润梦酒店(西安北大学城高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7bc2cf40422aba65100daaa8",
+    "name": "润梦酒店(西安高铁北客站北郊大学城店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5cfb7bebf619cdd53517dc43",
+    "name": "东胜商务酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bf60773dfa1ab40f00ec0131",
+    "name": "缤客精品酒店(西安行政中心高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fa7e33e865939419c3f1cf44",
+    "name": "尚捷精品酒店(西安北大学城高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a783687e0e1caf44b75f1e3c",
+    "name": "艺美酒店(西安北大学城高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8d22ea542dffa0b5eddfca9b",
+    "name": "朝漫酒店(西安高铁北站凤城九路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2e1ee0da31461bb626d2bb44",
+    "name": "云烁假日酒店(西安高铁北站北苑地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "69ed4ab23bcabf047169d38f",
+    "name": "兰亭酒店(西安高铁北客站红会医院北院区店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "af71998b51d69d0043ab9a7b",
+    "name": "奕晨商务宾馆(西安高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "16e545dc7b95bb1a1b94c603",
+    "name": "紫庭苑酒店(西安高铁北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f7fc4ba9ab4c1e6207026fe9",
+    "name": "良品铺子(西安高铁北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "af36ff1e4af57ec3f50e7764",
+    "name": "凯瑟琳主题酒店(西安北客站高铁北苑店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0fda00c7d733d8f5ce04ef6a",
+    "name": "哈啰租车(西安高铁站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4ef50d16fe6d0a764d2fdff2",
+    "name": "曼伦电竞公寓(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1d27d112f448a93d7dc8762d",
+    "name": "云朵精品酒店(西安高铁北站元鼎路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "25c729414079ed4c7369d37f",
+    "name": "君豪国际酒店(西安高铁北站凤城九路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "be2c7c17114fd73271210b7d",
+    "name": "尚美影院酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "850d1074cdc1820d76e5b601",
+    "name": "拉菲尔酒店(西安文景路地铁站高铁北站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "208adb8c3d1e19c5c03644da",
+    "name": "多爱全智能主题公寓(西安高铁北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6894d7092d2c5efe59bbbce2",
+    "name": "格菲酒店(西安高铁北站文景路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "305b29e423b95f325b109362",
+    "name": "西安东站-北出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7079cb8cb7dd921e4054d77d",
+    "name": "君莱民宿(西安高铁站北站红会医院北院店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "cf277869c53fcd37091cc7b9",
+    "name": "杰森宾馆(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f79c4a8f6640c60f734b8786",
+    "name": "铂仕酒店公寓(西安高铁北站地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1b2a632d1892457ad8d891d6",
+    "name": "艾美宾馆(西安高铁北客站红会医院北院区店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9301018badd4aa660f0a705b",
+    "name": "万澳酒店(西安高铁北站凤城九路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "83b76bbe31b06c1fc7f50d7b",
+    "name": "西安志勇宾馆(高铁北站地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e51b6374deac41fe5cd4fe29",
+    "name": "长安里·时光民宿(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bc208f9910b07c7e32870ac0",
+    "name": "熙林酒店(西安高铁北站凤城十路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "01b9ee0f97cc87e6c236447e",
+    "name": "亚信电竞酒店(西安市政府高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9ba0e56ff2dd20ae6c476050",
+    "name": "天赐旅游商务酒店(西安高铁北客站红会医院北区店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d5053d1b6365eae61894c631",
+    "name": "汉都景尚酒店(长安大学高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ca592c4c5c3865c8e856fa09",
+    "name": "枫3酒店(西安高铁北站文景路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "41a6cce2a732e4abca29159e",
+    "name": "瑾旅酒店(西安高铁北站北苑地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d684b33baaa72b9d250bd009",
+    "name": "荔诗酒店(西安高铁北站元朔路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ecd747c2dd23ce494007c143",
+    "name": "西安凯斯国际大酒店(高铁北站文景路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ff931918533ca7c526e0a008",
+    "name": "泊马民宿(西安高铁北站元朔路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9c4b7c6ab3ce90df4e2fdfe3",
+    "name": "喜玛M酒店(西安高铁西站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6337f9905268d9e47ab55c52",
+    "name": "云铂·尚美公寓酒店(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4ef959c11c9be8fb018972f1",
+    "name": "汉龙酒店(西安高铁北站凤城九路地铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7ce9bdf2ed50798548cc4a12",
+    "name": "西安逸雅民宿(高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6f588598d914075126d2bb3e",
+    "name": "美途酒店(西安北苑地铁站高铁北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "42b5f48758863dbea8f0cdaf",
+    "name": "善德寓民宿(西安高铁北站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "185c6c69a20fcaefc92915ff",
+    "name": "高铁新城",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5734ba19ff305402b9df8fd2",
+    "name": "西安小石头家庭宾馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "13906eb6c45d409efa0cadf1",
+    "name": "芸亭尚居(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c5d8b3f4834f36ade5e965cf",
+    "name": "紫依民宿(西安高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3834bf8a90a3f70635b06c54",
+    "name": "春华民宿(高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "acd0bd667b66cceb45572657",
+    "name": "斑斓民宿(西安市政府高铁北客站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ca6dfd9c70cbc1da4107c156",
+    "name": "雅致家客栈(西安高铁北客站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "10c09b7c405c989948cc4ae0",
+    "name": "西安西站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fabd711d992937c31e389482",
+    "name": "西安东站-北出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d95698def34a9b715cd4fe0b",
+    "name": "西安北站-南进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "45d1b5e205bbaf5b88f15d70",
+    "name": "蓝田站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7a9263163b784355d23ce30c",
+    "name": "汇豪酒店(西安高铁北客站红会医院北院区店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8c927b23b5527fbc6140a945",
+    "name": "学府印象民宿(西安北大学城碧桂园印象店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "28e41053c99d7a8b0b1cc70e",
+    "name": "西安西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4272cee76ee970554207c1a6",
+    "name": "西安北站-北进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8454dc3aa54a7dc404fef537",
+    "name": "蓝田站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dc80dac604a58ef17adbd26c",
+    "name": "西安北站地铁站-口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "05c00fa0e583cd89616858f1",
+    "name": "西安北站地铁站-口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "362a1455233786a7c91b9520",
+    "name": "西安北站地铁站-口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "272cfa3b8b9ae1d3764ff191",
+    "name": "西安北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "37f1dce42620038088f15d34",
+    "name": "白桦林溪高铁新城",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6659122ea15bb16a31f71d8c",
+    "name": "西安北站-西进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2de9f36ef1ac9a8f5bf6bedb",
+    "name": "西安东站-南出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d6be5dc59dcdb42000ff2d05",
+    "name": "国家级西安经济技术开发区高铁新城",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ab5b47777bb69a28c9fa5f00",
+    "name": "西安东站-北地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b916e2de2bd5f93c220262e0",
+    "name": "昆明池观光车停靠站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0863d6323f894ebc1ce99910",
+    "name": "观光车停靠站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4f60ff82bf90cc2b2afc48b3",
+    "name": "西安北站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "cf490b5e708cdebad8eced82",
+    "name": "铜川站高铁站综合楼",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "40775e4fb65eb7f6c9fa5f42",
+    "name": "宜君高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "84e6554048d40ab83010af3e",
+    "name": "西延高铁铜川站周边基础设施和石仁棚改及立交项目建设指挥部",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c848f420f5fde54132f71d3b",
+    "name": "哈啰租车(铜川高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3d283a67d9c7db3a4bfc8dbb",
+    "name": "铜川北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "abc73ca5a72971c86b49f377",
+    "name": "耀州站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7dc45219f3924207b5147f63",
+    "name": "中国铁建大桥工程局西延高铁1号智能拌和站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3633a3b2b419d490d23ce32e",
+    "name": "铜川汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3f24fee253ca8092cf06a416",
+    "name": "高铁专线(铜川汽车站-铜川北站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "736da59d69f53322d81318ae",
+    "name": "铜川站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d19ccf841e873b50631c67bf",
+    "name": "铜川东站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4934862e897b56421b11d5b1",
+    "name": "铜川东站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aefcc2685638d5367ab55c64",
+    "name": "高铁专线(铜川北站-铜川汽车站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

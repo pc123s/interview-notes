@@ -1,0 +1,402 @@
+[
+  {
+    "uid": "f5b9b5087f2ad4440482c2a3",
+    "name": "火车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "524ad71c42416aeff12d836e",
+    "name": "延安站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c621ba1df61e49bb2811d1fe",
+    "name": "火车站广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0dc3d82daee15f1275e5b665",
+    "name": "火车站广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a142e1d56929c87d81288a7b",
+    "name": "汽车南站火车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "58e91be9f3b9c1d30f0e6b08",
+    "name": "阳山火车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a805b84af60e2af42fb17ead",
+    "name": "秦家川火车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e54b7fd25899497ae856fac8",
+    "name": "麗枫酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9934c5916a1af20a931fc9da",
+    "name": "四通酒店(延安火车站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8cb7fb8f29c4406e89db7386",
+    "name": "亲·美好酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "99e434d7d0b15af6f82213e8",
+    "name": "良辰酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9ae02c3c79a12688d0ff239a",
+    "name": "柏悦阁·PARKVIEW COURT山居雅舍酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9793d3f420caec103c9a5e99",
+    "name": "延安农商银行(火车站支行)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d4034eb34546fef5c0364468",
+    "name": "北龙商务酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d3e2f37674234a1be011039e",
+    "name": "延安站-候车厅",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "98f402099584e80da2d23089",
+    "name": "山成快捷酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "be980abd375559760a5cb318",
+    "name": "恒瑞大酒店(延安火车站南泥湾机场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5dae3452273073fd8afc0676",
+    "name": "旭日快捷酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "63c12a3055435004a7c756d9",
+    "name": "汉庭酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "915686f493bc455a2202625b",
+    "name": "火车站家属院",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d361322a1ae41692d1ff2322",
+    "name": "火车站家属院",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "93ce330933e10b26aaf7295b",
+    "name": "神州租车(延安高铁火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "17931bb3e9047fe440ab9acb",
+    "name": "怡莱酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "04bdf4a3d651f84f354aaee8",
+    "name": "中国建设银行(延安火车站支行)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2e92bd90b290f28f33621270",
+    "name": "子长老字号煎饼宴(火车站分店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "06039d6c02af44bd2bd7ab5d",
+    "name": "锦利泽酒店(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d0874fa60eda92572b11d1af",
+    "name": "和嘉酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5c3323a6b090a66071455b1b",
+    "name": "火车站超市",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "611e62627b046dd6f90cadb6",
+    "name": "火车站烧烤城",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "746f75df0d6b5cf0ab0dd8cb",
+    "name": "L格林电竞酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fc09d0914ddb9534cc06a417",
+    "name": "顺通宾馆(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e376a2976bce084a76e5b63e",
+    "name": "麗枫酒店(延安火车站店)-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "724be616fdd2d4009b0050ec",
+    "name": "延安米琴民宿(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "db8eab64910576bc4251c074",
+    "name": "星途酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "360abd483e53834138e4a600",
+    "name": "明明彦莉住宿部(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f205652adfb71a873f9a5eba",
+    "name": "德瑞源酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bd8a0e4bbc2ee99e40ab9a0a",
+    "name": "万禾招待所(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "de0a13604877afa29d9d6896",
+    "name": "酥禾糕点(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7a341573c5bc949b354aae85",
+    "name": "爱品诺蛋糕店(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a74481d65cf18446f503b8e8",
+    "name": "中国建设银行24小时自助银行(延安火车站支行)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "310dbec5c7b226febb17e706",
+    "name": "北火车站送车点",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b57f9c60d4449a05e115f92c",
+    "name": "乐宏福招待所(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "331fb196f3e5dd7900ff2d44",
+    "name": "西延铁路延安小区火车站家属楼-西南门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9742c5a18e52252dd22dd6ba",
+    "name": "子长站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c327b347d5eda0a588fc06f0",
+    "name": "如家UP华驿智旅酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5946e3e0ea39f2afd7b74e53",
+    "name": "延安延飞丽缤酒店(火车站宝塔山店)-西南门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c8a01966eee8d4ea14b54b4c",
+    "name": "星迈咖啡(延安市火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9033f864c8410ebab817e760",
+    "name": "正新鸡排(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b93ea15b0a40c8deb75f1e64",
+    "name": "延河精选酒店(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "36b65f95306cb8639cf779b0",
+    "name": "子长站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "06ac68bbb801976458f6be19",
+    "name": "如家华驿系列-延安火车站宝塔山华驿酒店(延安火车站市人民医院店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "40cd39700cc84976bd484231",
+    "name": "延安延飞丽缤酒店(火车站宝塔山店)-西北门",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ed7006354b97a2e197ec846a",
+    "name": "延安德瑞源民宿",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7f56e4a3f853ae01c16c143b",
+    "name": "延安馨愉千辰民宿(延安火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a12ca2dbf0508fd30a5cb352",
+    "name": "甘泉北站-站前广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "07b3f6e813165c2cf92d6151",
+    "name": "洛川站站前广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "acd90fba95d7d834f4eafcf8",
+    "name": "黄陵站站前广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "484f786506202415931fc986",
+    "name": "延安南泥湾机场-站前广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "65ea4ec472511703451a3295",
+    "name": "延安站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "765590b296fb3fb2f7b91697",
+    "name": "牛牛腌肉馆(甘泉店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d83ae30e45321fa76fa3ccab",
+    "name": "羊杂李",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "802c6dc983628ea362685886",
+    "name": "中国农业银行(延安七里铺支行)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3634c651ca58092457bfffb3",
+    "name": "每一天便利店(七里铺大街店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d4e2257a6fc38f73f32d83c6",
+    "name": "百合足浴",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0c44994e8a8fa6d92202623d",
+    "name": "火车北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9e87904ad73833169ce3215a",
+    "name": "火车北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "03500c3cfdefbc7f471a32ed",
+    "name": "月台",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d773e7a36197713288db732d",
+    "name": "瑞康大药房(火车站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "15965ccdcec2f5e136b06cbb",
+    "name": "二平名酒荟超市",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "84c9ba7321482870f90cad98",
+    "name": "京东家电(甘泉县店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9355b00085c61974734b872e",
+    "name": "阳光豪泰酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6ae02000203cc69a1f1d11aa",
+    "name": "火车站家属院-2号楼",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1ea74d75471ffc7077026988",
+    "name": "富平小吃",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "57ef79ea81752049fb2213de",
+    "name": "小杨烧烤城",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b4de93b2df259eec2a02e1af",
+    "name": "秦川宾馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d6b4174167b5fb750bf5eb2f",
+    "name": "顺达工贸公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2fde2a74eead038a0e3dda88",
+    "name": "子长站-售票厅",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "066bc4ff768c1f330782c256",
+    "name": "花朵幼儿园",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b1712595730dd380d1f49eb6",
+    "name": "迎新彩钢厂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1ca3223a5c01b5494d2fdfd4",
+    "name": "子长市军盛汽车修理厂",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

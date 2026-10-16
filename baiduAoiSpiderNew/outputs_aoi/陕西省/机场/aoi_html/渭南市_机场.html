@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>渭南市 机场 围栏</title>
+  <style>
+    html, body { width:100%; height:100%; margin:0; padding:0; }
+    #map { width:100%; height:100%; }
+    .panel {
+      position:absolute; left:12px; top:12px; background:rgba(255,255,255,0.92);
+      padding:10px 12px; border-radius:10px; font-size:13px; max-width:420px; z-index:999;
+      box-shadow: 0 6px 20px rgba(0,0,0,.12);
+    }
+    .list {
+      margin-top:8px;
+      max-height: 60vh;
+      overflow:auto;
+      padding-right: 6px;
+    }
+    .row {
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding:6px 0;
+      border-bottom: 1px dashed rgba(0,0,0,.08);
+    }
+    .name {
+      flex: 1;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+    }
+    button {
+      border: 1px solid rgba(0,0,0,.15);
+      background: #fff;
+      border-radius: 8px;
+      padding: 6px 10px;
+      cursor:pointer;
+    }
+    button:hover { background: #f5f7ff; }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <div style="font-weight:700;">渭南市 机场 围栏</div>
+    <div style="margin-top:6px;color:#555;">共 1 条（勾选显示围栏）</div>
+    <div style="margin-top:8px; display:flex; gap:8px;">
+      <button id="btnAll">全选</button>
+      <button id="btnNone">全不选</button>
+      <button id="btnFit">适配视野</button>
+    </div>
+    <div class="list" id="list"></div>
+  </div>
+
+  <div id="map"></div>
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=ArKblRbibgjnUw4BqetR6CZEw1Jmur9O"></script>
+  <script>
+    const items = [{"uid": "d769fee793adc47dabf7292a", "name": "蒲城内府通用机场", "point_count": 27, "fence": [{"lng": 109.556167, "lat": 34.842969}, {"lng": 109.556498, "lat": 34.842828}, {"lng": 109.557393, "lat": 34.84321}, {"lng": 109.557778, "lat": 34.842655}, {"lng": 109.559563, "lat": 34.843448}, {"lng": 109.559793, "lat": 34.843486}, {"lng": 109.560014, "lat": 34.843502}, {"lng": 109.563701, "lat": 34.843682}, {"lng": 109.565348, "lat": 34.841154}, {"lng": 109.558778, "lat": 34.838461}, {"lng": 109.548209, "lat": 34.834061}, {"lng": 109.547735, "lat": 34.834011}, {"lng": 109.54744, "lat": 34.834014}, {"lng": 109.547294, "lat": 34.83405}, {"lng": 109.545235, "lat": 34.836988}, {"lng": 109.544278, "lat": 34.836498}, {"lng": 109.544055, "lat": 34.836627}, {"lng": 109.543983, "lat": 34.837448}, {"lng": 109.547941, "lat": 34.838935}, {"lng": 109.546785, "lat": 34.841398}, {"lng": 109.548875, "lat": 34.842217}, {"lng": 109.550239, "lat": 34.842713}, {"lng": 109.551972, "lat": 34.842825}, {"lng": 109.553129, "lat": 34.842948}, {"lng": 109.554994, "lat": 34.843678}, {"lng": 109.55544, "lat": 34.843028}, {"lng": 109.556167, "lat": 34.842969}]}];
+    const map = new BMap.Map("map");
+    map.centerAndZoom(new BMap.Point(116.404, 39.915), 12);
+    map.enableScrollWheelZoom(true);
+
+    const overlays = new Map(); // uid -> polygon
+
+    function buildPolygon(item) {
+      const pts = item.fence.map(p => new BMap.Point(p.lng, p.lat));
+      const poly = new BMap.Polygon(pts, {
+        strokeColor: "#1e90ff",
+        strokeWeight: 2,
+        strokeOpacity: 0.9,
+        fillColor: "#1e90ff",
+        fillOpacity: 0.25
+      });
+      return poly;
+    }
+
+    function ensureOverlay(item) {
+      if (overlays.has(item.uid)) return overlays.get(item.uid);
+      const poly = buildPolygon(item);
+      overlays.set(item.uid, poly);
+      return poly;
+    }
+
+    function setVisible(item, visible) {
+      const poly = ensureOverlay(item);
+      if (visible) {
+        map.addOverlay(poly);
+      } else {
+        map.removeOverlay(poly);
+      }
+    }
+
+    function fitViewport() {
+      const polys = [];
+      overlays.forEach((poly) => {
+        // 仅对当前在地图上的 overlay 生效
+        // 百度 Map API 无直接判断是否已 addOverlay，这里用 getMap() 规避
+        if (poly.getMap && poly.getMap()) polys.push(poly);
+      });
+      if (polys.length === 0) return;
+      const bounds = polys[0].getBounds();
+      for (let i = 1; i < polys.length; i++) {
+        bounds.extend(polys[i].getBounds().getSouthWest());
+        bounds.extend(polys[i].getBounds().getNorthEast());
+      }
+      map.setViewport(bounds);
+    }
+
+    const listEl = document.getElementById("list");
+    items.forEach((item, idx) => {
+      const row = document.createElement("div");
+      row.className = "row";
+
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.checked = false;
+      cb.addEventListener("change", () => {
+        setVisible(item, cb.checked);
+      });
+
+      const name = document.createElement("div");
+      name.className = "name";
+      name.title = item.name + " (" + item.uid + ")";
+      name.textContent = (idx+1) + ". " + item.name + "  [" + item.point_count + "点]";
+      name.addEventListener("click", () => {
+        const poly = ensureOverlay(item);
+        map.addOverlay(poly);
+        cb.checked = true;
+        map.setViewport(poly.getBounds());
+      });
+
+      row.appendChild(cb);
+      row.appendChild(name);
+      listEl.appendChild(row);
+    });
+
+    document.getElementById("btnAll").addEventListener("click", () => {
+      listEl.querySelectorAll("input[type=checkbox]").forEach((cb, i) => {
+        if (!cb.checked) {
+          cb.checked = true;
+          setVisible(items[i], true);
+        }
+      });
+      fitViewport();
+    });
+
+    document.getElementById("btnNone").addEventListener("click", () => {
+      listEl.querySelectorAll("input[type=checkbox]").forEach((cb, i) => {
+        if (cb.checked) {
+          cb.checked = false;
+          setVisible(items[i], false);
+        }
+      });
+    });
+
+    document.getElementById("btnFit").addEventListener("click", () => {
+      fitViewport();
+    });
+  </script>
+</body>
+</html>

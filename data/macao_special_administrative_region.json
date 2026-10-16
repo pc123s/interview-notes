@@ -1,0 +1,76 @@
+[
+    {
+        "name": "横琴线",
+        "line": [
+            "莲花",
+            "横琴"
+        ],
+        "direct": [
+            {
+                "start_station": "莲花",
+                "end_station": "横琴",
+                "start_time": "06:30",
+                "end_time": "23:15"
+            },
+            {
+                "end_station": "莲花",
+                "start_station": "横琴",
+                "start_time": "06:30",
+                "end_time": "23:15"
+            }
+        ]
+    },
+    {
+        "name": "石排湾线",
+        "line": [
+            "协和医院",
+            "石排湾"
+        ],
+        "direct": [
+            {
+                "start_station": "协和医院",
+                "end_station": "石排湾",
+                "start_time": "06:30",
+                "end_time": "23:15"
+            },
+            {
+                "end_station": "协和医院",
+                "start_station": "石排湾",
+                "start_time": "06:30",
+                "end_time": "23:15"
+            }
+        ]
+    },
+    {
+        "name": "氹仔线",
+        "line": [
+            "氹仔码头",
+            "机场",
+            "科大",
+            "路氹东",
+            "东亚运",
+            "协和医院",
+            "莲花",
+            "路氹西",
+            "排角",
+            "运动场",
+            "马会",
+            "海洋",
+            "妈阁"
+        ],
+        "direct": [
+            {
+                "start_station": "氹仔码头",
+                "end_station": "妈阁",
+                "start_time": "06:30",
+                "end_time": "23:15"
+            },
+            {
+                "end_station": "氹仔码头",
+                "start_station": "妈阁",
+                "start_time": "06:30",
+                "end_time": "23:15"
+            }
+        ]
+    }
+]

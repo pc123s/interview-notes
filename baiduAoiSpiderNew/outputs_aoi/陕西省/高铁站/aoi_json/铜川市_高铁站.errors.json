@@ -1,0 +1,67 @@
+[
+  {
+    "uid": "cf490b5e708cdebad8eced82",
+    "name": "铜川站高铁站综合楼",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "40775e4fb65eb7f6c9fa5f42",
+    "name": "宜君高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "84e6554048d40ab83010af3e",
+    "name": "西延高铁铜川站周边基础设施和石仁棚改及立交项目建设指挥部",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c848f420f5fde54132f71d3b",
+    "name": "哈啰租车(铜川高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3d283a67d9c7db3a4bfc8dbb",
+    "name": "铜川北站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "abc73ca5a72971c86b49f377",
+    "name": "耀州站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7dc45219f3924207b5147f63",
+    "name": "中国铁建大桥工程局西延高铁1号智能拌和站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3633a3b2b419d490d23ce32e",
+    "name": "铜川汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3f24fee253ca8092cf06a416",
+    "name": "高铁专线(铜川汽车站-铜川北站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "736da59d69f53322d81318ae",
+    "name": "铜川站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d19ccf841e873b50631c67bf",
+    "name": "铜川东站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4934862e897b56421b11d5b1",
+    "name": "铜川东站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aefcc2685638d5367ab55c64",
+    "name": "高铁专线(铜川北站-铜川汽车站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

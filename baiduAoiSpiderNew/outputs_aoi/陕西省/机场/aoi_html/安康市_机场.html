@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>安康市 机场 围栏</title>
+  <style>
+    html, body { width:100%; height:100%; margin:0; padding:0; }
+    #map { width:100%; height:100%; }
+    .panel {
+      position:absolute; left:12px; top:12px; background:rgba(255,255,255,0.92);
+      padding:10px 12px; border-radius:10px; font-size:13px; max-width:420px; z-index:999;
+      box-shadow: 0 6px 20px rgba(0,0,0,.12);
+    }
+    .list {
+      margin-top:8px;
+      max-height: 60vh;
+      overflow:auto;
+      padding-right: 6px;
+    }
+    .row {
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding:6px 0;
+      border-bottom: 1px dashed rgba(0,0,0,.08);
+    }
+    .name {
+      flex: 1;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+    }
+    button {
+      border: 1px solid rgba(0,0,0,.15);
+      background: #fff;
+      border-radius: 8px;
+      padding: 6px 10px;
+      cursor:pointer;
+    }
+    button:hover { background: #f5f7ff; }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <div style="font-weight:700;">安康市 机场 围栏</div>
+    <div style="margin-top:6px;color:#555;">共 1 条（勾选显示围栏）</div>
+    <div style="margin-top:8px; display:flex; gap:8px;">
+      <button id="btnAll">全选</button>
+      <button id="btnNone">全不选</button>
+      <button id="btnFit">适配视野</button>
+    </div>
+    <div class="list" id="list"></div>
+  </div>
+
+  <div id="map"></div>
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=ArKblRbibgjnUw4BqetR6CZEw1Jmur9O"></script>
+  <script>
+    const items = [{"uid": "9cbf790a8d79264e9de321a4", "name": "安康富强机场", "point_count": 73, "fence": [{"lng": 108.882375, "lat": 32.754916}, {"lng": 108.882433, "lat": 32.75488}, {"lng": 108.882501, "lat": 32.754872}, {"lng": 108.884879, "lat": 32.754646}, {"lng": 108.887791, "lat": 32.754378}, {"lng": 108.887871, "lat": 32.75438}, {"lng": 108.887945, "lat": 32.754395}, {"lng": 108.888, "lat": 32.75443}, {"lng": 108.888045, "lat": 32.754493}, {"lng": 108.888067, "lat": 32.754557}, {"lng": 108.888585, "lat": 32.758471}, {"lng": 108.888614, "lat": 32.758541}, {"lng": 108.888659, "lat": 32.758578}, {"lng": 108.888714, "lat": 32.758597}, {"lng": 108.888787, "lat": 32.758599}, {"lng": 108.901514, "lat": 32.757311}, {"lng": 108.901572, "lat": 32.757327}, {"lng": 108.901614, "lat": 32.757362}, {"lng": 108.90163, "lat": 32.757394}, {"lng": 108.901712, "lat": 32.759638}, {"lng": 108.901702, "lat": 32.759702}, {"lng": 108.90167, "lat": 32.759753}, {"lng": 108.901187, "lat": 32.760412}, {"lng": 108.901146, "lat": 32.760453}, {"lng": 108.901078, "lat": 32.760479}, {"lng": 108.88406, "lat": 32.762197}, {"lng": 108.884022, "lat": 32.762185}, {"lng": 108.883986, "lat": 32.762153}, {"lng": 108.883961, "lat": 32.762106}, {"lng": 108.883925, "lat": 32.761828}, {"lng": 108.883915, "lat": 32.761789}, {"lng": 108.883889, "lat": 32.761751}, {"lng": 108.883854, "lat": 32.761733}, {"lng": 108.883812, "lat": 32.761733}, {"lng": 108.876504, "lat": 32.762513}, {"lng": 108.876451, "lat": 32.762525}, {"lng": 108.876414, "lat": 32.762548}, {"lng": 108.876396, "lat": 32.76258}, {"lng": 108.876385, "lat": 32.762629}, {"lng": 108.876385, "lat": 32.762677}, {"lng": 108.876457, "lat": 32.763143}, {"lng": 108.87645, "lat": 32.763185}, {"lng": 108.876424, "lat": 32.763223}, {"lng": 108.876384, "lat": 32.763248}, {"lng": 108.876331, "lat": 32.763259}, {"lng": 108.86748, "lat": 32.76418}, {"lng": 108.867406, "lat": 32.764162}, {"lng": 108.867348, "lat": 32.764125}, {"lng": 108.867322, "lat": 32.76408}, {"lng": 108.867303, "lat": 32.764016}, {"lng": 108.86694, "lat": 32.761023}, {"lng": 108.86695, "lat": 32.760955}, {"lng": 108.866972, "lat": 32.760913}, {"lng": 108.867017, "lat": 32.760887}, {"lng": 108.867085, "lat": 32.760873}, {"lng": 108.875807, "lat": 32.75994}, {"lng": 108.875884, "lat": 32.759936}, {"lng": 108.875955, "lat": 32.759954}, {"lng": 108.876013, "lat": 32.759997}, {"lng": 108.876045, "lat": 32.760067}, {"lng": 108.876065, "lat": 32.760304}, {"lng": 108.876084, "lat": 32.760348}, {"lng": 108.876129, "lat": 32.760386}, {"lng": 108.876181, "lat": 32.760398}, {"lng": 108.88283, "lat": 32.759691}, {"lng": 108.882901, "lat": 32.759667}, {"lng": 108.882949, "lat": 32.759631}, {"lng": 108.882981, "lat": 32.759576}, {"lng": 108.88299, "lat": 32.759506}, {"lng": 108.882321, "lat": 32.755138}, {"lng": 108.882327, "lat": 32.755051}, {"lng": 108.882347, "lat": 32.754974}, {"lng": 108.882375, "lat": 32.754916}]}];
+    const map = new BMap.Map("map");
+    map.centerAndZoom(new BMap.Point(116.404, 39.915), 12);
+    map.enableScrollWheelZoom(true);
+
+    const overlays = new Map(); // uid -> polygon
+
+    function buildPolygon(item) {
+      const pts = item.fence.map(p => new BMap.Point(p.lng, p.lat));
+      const poly = new BMap.Polygon(pts, {
+        strokeColor: "#1e90ff",
+        strokeWeight: 2,
+        strokeOpacity: 0.9,
+        fillColor: "#1e90ff",
+        fillOpacity: 0.25
+      });
+      return poly;
+    }
+
+    function ensureOverlay(item) {
+      if (overlays.has(item.uid)) return overlays.get(item.uid);
+      const poly = buildPolygon(item);
+      overlays.set(item.uid, poly);
+      return poly;
+    }
+
+    function setVisible(item, visible) {
+      const poly = ensureOverlay(item);
+      if (visible) {
+        map.addOverlay(poly);
+      } else {
+        map.removeOverlay(poly);
+      }
+    }
+
+    function fitViewport() {
+      const polys = [];
+      overlays.forEach((poly) => {
+        // 仅对当前在地图上的 overlay 生效
+        // 百度 Map API 无直接判断是否已 addOverlay，这里用 getMap() 规避
+        if (poly.getMap && poly.getMap()) polys.push(poly);
+      });
+      if (polys.length === 0) return;
+      const bounds = polys[0].getBounds();
+      for (let i = 1; i < polys.length; i++) {
+        bounds.extend(polys[i].getBounds().getSouthWest());
+        bounds.extend(polys[i].getBounds().getNorthEast());
+      }
+      map.setViewport(bounds);
+    }
+
+    const listEl = document.getElementById("list");
+    items.forEach((item, idx) => {
+      const row = document.createElement("div");
+      row.className = "row";
+
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.checked = false;
+      cb.addEventListener("change", () => {
+        setVisible(item, cb.checked);
+      });
+
+      const name = document.createElement("div");
+      name.className = "name";
+      name.title = item.name + " (" + item.uid + ")";
+      name.textContent = (idx+1) + ". " + item.name + "  [" + item.point_count + "点]";
+      name.addEventListener("click", () => {
+        const poly = ensureOverlay(item);
+        map.addOverlay(poly);
+        cb.checked = true;
+        map.setViewport(poly.getBounds());
+      });
+
+      row.appendChild(cb);
+      row.appendChild(name);
+      listEl.appendChild(row);
+    });
+
+    document.getElementById("btnAll").addEventListener("click", () => {
+      listEl.querySelectorAll("input[type=checkbox]").forEach((cb, i) => {
+        if (!cb.checked) {
+          cb.checked = true;
+          setVisible(items[i], true);
+        }
+      });
+      fitViewport();
+    });
+
+    document.getElementById("btnNone").addEventListener("click", () => {
+      listEl.querySelectorAll("input[type=checkbox]").forEach((cb, i) => {
+        if (cb.checked) {
+          cb.checked = false;
+          setVisible(items[i], false);
+        }
+      });
+    });
+
+    document.getElementById("btnFit").addEventListener("click", () => {
+      fitViewport();
+    });
+  </script>
+</body>
+</html>

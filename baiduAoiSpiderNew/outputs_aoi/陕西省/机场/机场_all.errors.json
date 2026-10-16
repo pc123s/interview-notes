@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "c51354ff581bb1fe2fb17e0a",
+    "name": "富强机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aa6b6bd2f5890c665fbe8602",
+    "name": "南泥湾机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1316c2afdd16e2d322f01736",
+    "name": "府谷府州机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3d26fdd26deb05e46c4760d4",
+    "name": "榆阳机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5238b0a483922cb6fea77848",
+    "name": "柳林机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4edce34c2367a232b21e3658",
+    "name": "空基地蓝田通用机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "77f8a8324c2f5f1841d63e04",
+    "name": "机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

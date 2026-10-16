@@ -1,0 +1,12 @@
+[
+  {
+    "uid": "1316c2afdd16e2d322f01736",
+    "name": "府谷府州机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3d26fdd26deb05e46c4760d4",
+    "name": "榆阳机场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "uid": "f592b13d6ef5b6e1f8f0cb36",
+    "name": "榆林站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dbf99526d1af30cc45e27438",
+    "name": "鸿然宾馆(榆林高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a26c0ab3beb5bbd451e5c53f",
+    "name": "神木西站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9d0ab8f7ea7ba00930169ba2",
+    "name": "锦界站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d83de08b12bbd8335fbe8663",
+    "name": "神木北站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "aeb81ce8ad3dd335c9e33c19",
+    "name": "神木西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f88d13ce2001e1a64107c175",
+    "name": "神木北站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "46f1c7acb78455b3a3acc4bf",
+    "name": "吴堡站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ebfed3bbaf7f977006fef5fd",
+    "name": "锦东站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b9d5ed2fc9cf31e69f09f7e6",
+    "name": "吴堡站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e6d23870f6f1e137f33cba06",
+    "name": "中科智充新元重卡充电站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

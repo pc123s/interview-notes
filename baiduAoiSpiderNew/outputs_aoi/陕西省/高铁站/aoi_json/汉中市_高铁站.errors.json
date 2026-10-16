@@ -1,0 +1,387 @@
+[
+  {
+    "uid": "4711c8537c39b294d0ff236d",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4959d7edb9b6f17b25e0a09f",
+    "name": "高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "92718783b690b6d4f02d8354",
+    "name": "高铁站路口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "547aae4f185b346e09b93ad2",
+    "name": "橙季酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d208821ffea567f617b54b8a",
+    "name": "H酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "584b3e12b2b1ae0afbdc8570",
+    "name": "布丁酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6543665ea9e850999c9d68b7",
+    "name": "汉中中心广场高铁站非繁云居酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fc85f38a19bcb801441a3222",
+    "name": "云鼎商务酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bb14411fedf854d81d5800b6",
+    "name": "自然醒酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "92c193007b374c04b8bd63e4",
+    "name": "艾斯雅居酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "41a6f9fe3435da63f5e73bbc",
+    "name": "尚客优品酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "8d494963cf8dafbf9c09f7d5",
+    "name": "星辰酒店(中心广场汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a91483c09baa44755e17c39d",
+    "name": "金泰轻奢酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5b716a7a90a2bd4a0a5cb32f",
+    "name": "希岸智能酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "088fc15b3d1c33d614b54b1a",
+    "name": "龙城大酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7cc699853be67e8a4c6d4631",
+    "name": "花与果酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7837f08f4a3f0123d7851f19",
+    "name": "艺龙瑞云酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f1cd68b37829566643afe68b",
+    "name": "御庭和悦酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f93f4084a1d85d09d02dd671",
+    "name": "查威尔酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fbf7352ee455292d1ef74da1",
+    "name": "汉英尚品酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c2dfd0167396067c06026f47",
+    "name": "艾米精致酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5cc9581798dc4a953ce23155",
+    "name": "加雅酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "27f80169449d1c00441a322b",
+    "name": "米畔酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b0a524fdfc290762a2d23031",
+    "name": "维也纳酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "52463fbd64ea0512ca291597",
+    "name": "景玉智能酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5f35390edd081a732102621d",
+    "name": "皇家驿站酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "63f64030ce4d5c25c16c1400",
+    "name": "锦江·凯里亚德酒店(汉中高铁站兴汉胜境店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4dee68a6c979948dc5effbc9",
+    "name": "汉中站-北出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "68054a9a674ea65a15c905b0",
+    "name": "城北高铁充电站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5c5e1d47a0c98e76ae080f76",
+    "name": "艺龙安悦酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5180afc02c3ebba74d2fdf1a",
+    "name": "汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "93f086eaf456a75445572669",
+    "name": "麗枫酒店(汉中中心广场高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6d0e4abd3c2b03a514948e73",
+    "name": "蓝渔智能酒店(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "73478699a0c87ca9b020a841",
+    "name": "相悦美宿(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6bed0d160fddeca784154155",
+    "name": "艾斯·柏月酒店(汉中中心广场高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "56387aac1aed40753be4a68c",
+    "name": "玖栖·雅致酒店(汉中中心广场高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "d7a77a36d4f2629bb42655e9",
+    "name": "百悦国际酒店(汉中高铁站万邦时代广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6570893d982d6d181fe9996f",
+    "name": "暖居民宿(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ee3e665a19c0e00338221cf9",
+    "name": "喜登豪酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1147538cd7e09272a11de9fb",
+    "name": "汉中中心广场高铁站非繁云居酒店-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ccc15382db669e91095cb33e",
+    "name": "如家华驿精选酒店(汉中市高铁站北广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "83744c43bbf4a305c17da22f",
+    "name": "幸运咖(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2a40ececedec9fdebfa8227c",
+    "name": "客莱堡(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0225552d3515fe1cc829156d",
+    "name": "利源民宿(汉中高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1ccbc63845aa99d9ede4a5bc",
+    "name": "西城院子民宿(汉中洋县高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "b32a69e4320140cb77026922",
+    "name": "汉中艾斯骊风酒店(汉中高铁站中心广场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ceb42a4d9ad90eb97adbd28f",
+    "name": "城固县城市管理局高铁站前广场综合执法中队",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "dec967e52b7368fc047ce846",
+    "name": "汽车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "1800564b55c3e6818b2fb531",
+    "name": "西成高铁汉中高铁基地",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5d6356087548d120d0ff23f1",
+    "name": "城固投控汽车充电站(高铁北站停车场)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ec1bb740090f25fe49fc8d31",
+    "name": "城固金龙宾馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5b0232ee2b941a0cb0077dae",
+    "name": "高铁南站新村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "37704c107ba998598bb98892",
+    "name": "零食很忙(陕西汉中城固石家坝农贸市场店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9383bc6cc84fef88d5b74ead",
+    "name": "国家电网充电站(陕西省汉中市洋县洋县西高铁站停车场充电站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "35340380f0188098df1e52b4",
+    "name": "公共卫生间",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "eab5574b46a6916e471a325d",
+    "name": "京东快递(汉中洋县营业部)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0a516a23e35490fd2bd7abe8",
+    "name": "洋县龙泉山庄",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e61c504edcb7d81c8936eea3",
+    "name": "宏魁包装材料销售有限公司",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "182b8686f1e14615e215f9e9",
+    "name": "尚都智慧酒店(洋县尚都城市广场店)-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2c97a7828e96af248836eea1",
+    "name": "锦源川菜",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "474e588d9d258883f4e73bd5",
+    "name": "Ginkgo Resort银杏墅(佛坪高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "95ba68535a245ea9246e9898",
+    "name": "佛坪Ginkgo Resort银杏宿(高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a6ee879a47ce85640e0a705c",
+    "name": "佛坪站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6620a4da9cfa3a88ad045787",
+    "name": "公厕",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "372ceca457a0998bb320a80b",
+    "name": "佛坪站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "08559f0174bda8ae9122e0e1",
+    "name": "东岳殿",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "3de0c3988783f4c941e19273",
+    "name": "秦岭人与自然博物馆",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "28028038cbfe31b63617dc1a",
+    "name": "振兴中路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ff3591501e7ff25749fd3f14",
+    "name": "佛坪站-站前广场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "62b9215a2c8db7cbd5b74e81",
+    "name": "县医院",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f43530cc7170b32238e4a633",
+    "name": "佛坪中学",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "79766c8bb0cb4251fda778be",
+    "name": "黄家湾",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "6af4bfea283aa925bca8229c",
+    "name": "佛坪站-地下停车场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0501fc2dde6b7362843304bf",
+    "name": "佛坪晨希酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "9663b87faddbf96c6268589e",
+    "name": "椒溪嘉苑",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "922303df1607616ab13c8143",
+    "name": "佛坪站-公交站场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "608055240350eb42a21de9b1",
+    "name": "百鸟山庄",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

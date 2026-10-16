@@ -1,0 +1,157 @@
+[
+  {
+    "uid": "ecf5ffa69ce952a7f6c59c61",
+    "name": "山阳县高铁站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "df3f689e80076a07e6e965af",
+    "name": "高铁新城加油站(商洛站)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "7991b5053f7a3833b35c6aa4",
+    "name": "西十高铁拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "62fb50a0dcde684c4107c190",
+    "name": "华龙车站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "4a9049450aaf5db0a80dd848",
+    "name": "高铁十三路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "172fe2e4d51ff72233621285",
+    "name": "西十高铁陕西段XSZQ五标项目经理部三号拌和站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c19876829b455c63343a7123",
+    "name": "刘家村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "71f444a35645cf46d5b74eee",
+    "name": "翠屏公园",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "68795b8237d67a2b223bf223",
+    "name": "寇家沟村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0faa6c3eace3eb35095cb3e0",
+    "name": "中铁三局西康高铁项目经理部四号拌合站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "5f9372a94bffaf065e0d02c7",
+    "name": "马家村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "ec8b9a73a899e22779dbd235",
+    "name": "轻茉原叶鲜奶茶(山阳高铁站店)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e0d6690db66e3574c9c3dbe9",
+    "name": "高铁一路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2d65b388c691408ef7eafca5",
+    "name": "体育场",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fef25de22ad3d1e69b68b47a",
+    "name": "石头梁村",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "299b5f1fd1d4a267c356ac21",
+    "name": "第三中学",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "f601d72fcbcfd726e5073847",
+    "name": "隆元·基曼斯酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "fa0a4118fce56a21d42ce202",
+    "name": "十里铺街办",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "0abb31bbc2c11c7d16c905ac",
+    "name": "丰阳酒店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "bf11d255da944996eee4a5dd",
+    "name": "原味山阳简餐店",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "86e1afb223ae5d476a49f3a3",
+    "name": "哈啰租车(镇安-迅腾租车)",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "591b715ee60853a431870abc",
+    "name": "中铁一局商洛高铁新城项目",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e3c5299bd1f09b19bea240d4",
+    "name": "西十高铁高坝协调办公室",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "86eb25071bdd32f0f6e73bca",
+    "name": "高铁十三路",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "e691a15bd6e86f423be4a61c",
+    "name": "商洛西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "2cfe29d2fc572d3f16764377",
+    "name": "商洛西站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "a886d24fddff00661f3894f6",
+    "name": "商洛西站-进站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "c2857c28de2ee0def4e73ba6",
+    "name": "商洛北站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "24869cc86a195f3fb320a8ba",
+    "name": "漫川关站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "08f27113cb4ffa67873304c7",
+    "name": "东站",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  },
+  {
+    "uid": "04cb43122ae43c736240a9ca",
+    "name": "漫川关站-出站口",
+    "error": "'响应中无 content.geo，uid 可能无效或未返回边界'"
+  }
+]

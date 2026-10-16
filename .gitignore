@@ -1,2 +1,6 @@
 # Office 临时锁文件
 ~$*
+
+# Python 缓存
+__pycache__/
+*.pyc

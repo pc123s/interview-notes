@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>汉中市 机场 围栏</title>
+  <style>
+    html, body { width:100%; height:100%; margin:0; padding:0; }
+    #map { width:100%; height:100%; }
+    .panel {
+      position:absolute; left:12px; top:12px; background:rgba(255,255,255,0.92);
+      padding:10px 12px; border-radius:10px; font-size:13px; max-width:420px; z-index:999;
+      box-shadow: 0 6px 20px rgba(0,0,0,.12);
+    }
+    .list {
+      margin-top:8px;
+      max-height: 60vh;
+      overflow:auto;
+      padding-right: 6px;
+    }
+    .row {
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding:6px 0;
+      border-bottom: 1px dashed rgba(0,0,0,.08);
+    }
+    .name {
+      flex: 1;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+    }
+    button {
+      border: 1px solid rgba(0,0,0,.15);
+      background: #fff;
+      border-radius: 8px;
+      padding: 6px 10px;
+      cursor:pointer;
+    }
+    button:hover { background: #f5f7ff; }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <div style="font-weight:700;">汉中市 机场 围栏</div>
+    <div style="margin-top:6px;color:#555;">共 1 条（勾选显示围栏）</div>
+    <div style="margin-top:8px; display:flex; gap:8px;">
+      <button id="btnAll">全选</button>
+      <button id="btnNone">全不选</button>
+      <button id="btnFit">适配视野</button>
+    </div>
+    <div class="list" id="list"></div>
+  </div>
+
+  <div id="map"></div>
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=ArKblRbibgjnUw4BqetR6CZEw1Jmur9O"></script>
+  <script>
+    const items = [{"uid": "babd5b5b6c6398fa40e192d7", "name": "汉中城固机场", "point_count": 168, "fence": [{"lng": 107.199213, "lat": 33.13445}, {"lng": 107.199203, "lat": 33.134447}, {"lng": 107.199193, "lat": 33.134441}, {"lng": 107.199186, "lat": 33.134433}, {"lng": 107.19918, "lat": 33.134424}, {"lng": 107.199177, "lat": 33.134414}, {"lng": 107.199177, "lat": 33.134403}, {"lng": 107.199179, "lat": 33.134392}, {"lng": 107.200358, "lat": 33.131372}, {"lng": 107.200364, "lat": 33.131363}, {"lng": 107.200372, "lat": 33.131354}, {"lng": 107.200382, "lat": 33.131348}, {"lng": 107.200392, "lat": 33.131343}, {"lng": 107.200404, "lat": 33.131341}, {"lng": 107.200415, "lat": 33.131341}, {"lng": 107.200426, "lat": 33.131343}, {"lng": 107.203534, "lat": 33.132205}, {"lng": 107.203545, "lat": 33.132207}, {"lng": 107.203557, "lat": 33.132207}, {"lng": 107.203568, "lat": 33.132205}, {"lng": 107.203579, "lat": 33.132201}, {"lng": 107.203588, "lat": 33.132194}, {"lng": 107.203597, "lat": 33.132186}, {"lng": 107.203603, "lat": 33.132176}, {"lng": 107.20392, "lat": 33.131249}, {"lng": 107.203922, "lat": 33.131238}, {"lng": 107.203921, "lat": 33.131226}, {"lng": 107.203918, "lat": 33.131216}, {"lng": 107.203913, "lat": 33.131206}, {"lng": 107.203905, "lat": 33.131198}, {"lng": 107.203896, "lat": 33.131191}, {"lng": 107.203886, "lat": 33.131187}, {"lng": 107.203728, "lat": 33.131128}, {"lng": 107.203718, "lat": 33.131124}, {"lng": 107.203709, "lat": 33.131117}, {"lng": 107.203702, "lat": 33.131109}, {"lng": 107.203696, "lat": 33.131099}, {"lng": 107.203694, "lat": 33.131089}, {"lng": 107.203693, "lat": 33.131078}, {"lng": 107.203696, "lat": 33.131067}, {"lng": 107.20446, "lat": 33.129232}, {"lng": 107.205297, "lat": 33.127412}, {"lng": 107.205305, "lat": 33.127403}, {"lng": 107.205313, "lat": 33.127395}, {"lng": 107.205323, "lat": 33.127389}, {"lng": 107.205333, "lat": 33.127384}, {"lng": 107.205344, "lat": 33.127382}, {"lng": 107.205356, "lat": 33.127383}, {"lng": 107.205367, "lat": 33.127386}, {"lng": 107.209246, "lat": 33.128605}, {"lng": 107.209256, "lat": 33.128609}, {"lng": 107.209265, "lat": 33.128614}, {"lng": 107.209273, "lat": 33.128622}, {"lng": 107.209278, "lat": 33.128632}, {"lng": 107.209282, "lat": 33.128642}, {"lng": 107.209282, "lat": 33.128653}, {"lng": 107.209281, "lat": 33.128664}, {"lng": 107.209132, "lat": 33.129075}, {"lng": 107.209126, "lat": 33.129084}, {"lng": 107.209118, "lat": 33.129093}, {"lng": 107.209109, "lat": 33.129099}, {"lng": 107.209099, "lat": 33.129103}, {"lng": 107.209088, "lat": 33.129105}, {"lng": 107.209077, "lat": 33.129105}, {"lng": 107.209066, "lat": 33.129103}, {"lng": 107.208578, "lat": 33.128954}, {"lng": 107.208567, "lat": 33.128951}, {"lng": 107.208556, "lat": 33.128951}, {"lng": 107.208545, "lat": 33.128953}, {"lng": 107.208534, "lat": 33.128957}, {"lng": 107.208524, "lat": 33.128963}, {"lng": 107.208516, "lat": 33.128971}, {"lng": 107.20851, "lat": 33.128981}, {"lng": 107.206645, "lat": 33.133289}, {"lng": 107.206643, "lat": 33.1333}, {"lng": 107.206643, "lat": 33.13331}, {"lng": 107.206646, "lat": 33.13332}, {"lng": 107.206651, "lat": 33.13333}, {"lng": 107.206659, "lat": 33.133337}, {"lng": 107.206668, "lat": 33.133343}, {"lng": 107.206678, "lat": 33.133346}, {"lng": 107.225947, "lat": 33.138928}, {"lng": 107.225958, "lat": 33.138931}, {"lng": 107.22597, "lat": 33.138931}, {"lng": 107.225981, "lat": 33.138929}, {"lng": 107.225991, "lat": 33.138925}, {"lng": 107.226, "lat": 33.138918}, {"lng": 107.226008, "lat": 33.13891}, {"lng": 107.226014, "lat": 33.138901}, {"lng": 107.22608, "lat": 33.13873}, {"lng": 107.226087, "lat": 33.138721}, {"lng": 107.226094, "lat": 33.138712}, {"lng": 107.226104, "lat": 33.138706}, {"lng": 107.226114, "lat": 33.138702}, {"lng": 107.226125, "lat": 33.1387}, {"lng": 107.226136, "lat": 33.1387}, {"lng": 107.226147, "lat": 33.138703}, {"lng": 107.232678, "lat": 33.140697}, {"lng": 107.2327, "lat": 33.140709}, {"lng": 107.232717, "lat": 33.140729}, {"lng": 107.232746, "lat": 33.140812}, {"lng": 107.232748, "lat": 33.140843}, {"lng": 107.232742, "lat": 33.140865}, {"lng": 107.231499, "lat": 33.143839}, {"lng": 107.231493, "lat": 33.14385}, {"lng": 107.231485, "lat": 33.143859}, {"lng": 107.231475, "lat": 33.143867}, {"lng": 107.231465, "lat": 33.143874}, {"lng": 107.231453, "lat": 33.143879}, {"lng": 107.231441, "lat": 33.143881}, {"lng": 107.231428, "lat": 33.143882}, {"lng": 107.230695, "lat": 33.143897}, {"lng": 107.23068, "lat": 33.143897}, {"lng": 107.230665, "lat": 33.143896}, {"lng": 107.23065, "lat": 33.143895}, {"lng": 107.230635, "lat": 33.143893}, {"lng": 107.230619, "lat": 33.143891}, {"lng": 107.230604, "lat": 33.143889}, {"lng": 107.23059, "lat": 33.143886}, {"lng": 107.227501, "lat": 33.14304}, {"lng": 107.224128, "lat": 33.142448}, {"lng": 107.212772, "lat": 33.139113}, {"lng": 107.212751, "lat": 33.139112}, {"lng": 107.21273, "lat": 33.139118}, {"lng": 107.212718, "lat": 33.139129}, {"lng": 107.212708, "lat": 33.139148}, {"lng": 107.212193, "lat": 33.14236}, {"lng": 107.212189, "lat": 33.142371}, {"lng": 107.212183, "lat": 33.142381}, {"lng": 107.212175, "lat": 33.142389}, {"lng": 107.212166, "lat": 33.142395}, {"lng": 107.212155, "lat": 33.142399}, {"lng": 107.212144, "lat": 33.142401}, {"lng": 107.212133, "lat": 33.142401}, {"lng": 107.209165, "lat": 33.142158}, {"lng": 107.206993, "lat": 33.14196}, {"lng": 107.206981, "lat": 33.141956}, {"lng": 107.206972, "lat": 33.14195}, {"lng": 107.206963, "lat": 33.141943}, {"lng": 107.206956, "lat": 33.141933}, {"lng": 107.206951, "lat": 33.141923}, {"lng": 107.206949, "lat": 33.141912}, {"lng": 107.206948, "lat": 33.1419}, {"lng": 107.207554, "lat": 33.137721}, {"lng": 107.207553, "lat": 33.13771}, {"lng": 107.207551, "lat": 33.137699}, {"lng": 107.207546, "lat": 33.137688}, {"lng": 107.207539, "lat": 33.137679}, {"lng": 107.20753, "lat": 33.137672}, {"lng": 107.20752, "lat": 33.137666}, {"lng": 107.207509, "lat": 33.137663}, {"lng": 107.202141, "lat": 33.136235}, {"lng": 107.202131, "lat": 33.136232}, {"lng": 107.202121, "lat": 33.136227}, {"lng": 107.202113, "lat": 33.136219}, {"lng": 107.202107, "lat": 33.13621}, {"lng": 107.202102, "lat": 33.1362}, {"lng": 107.202101, "lat": 33.136189}, {"lng": 107.202101, "lat": 33.136177}, {"lng": 107.202201, "lat": 33.135387}, {"lng": 107.202202, "lat": 33.135375}, {"lng": 107.2022, "lat": 33.135364}, {"lng": 107.202196, "lat": 33.135354}, {"lng": 107.20219, "lat": 33.135345}, {"lng": 107.202182, "lat": 33.135337}, {"lng": 107.202172, "lat": 33.135331}, {"lng": 107.202161, "lat": 33.135328}, {"lng": 107.199213, "lat": 33.13445}]}];
+    const map = new BMap.Map("map");
+    map.centerAndZoom(new BMap.Point(116.404, 39.915), 12);
+    map.enableScrollWheelZoom(true);
+
+    const overlays = new Map(); // uid -> polygon
+
+    function buildPolygon(item) {
+      const pts = item.fence.map(p => new BMap.Point(p.lng, p.lat));
+      const poly = new BMap.Polygon(pts, {
+        strokeColor: "#1e90ff",
+        strokeWeight: 2,
+        strokeOpacity: 0.9,
+        fillColor: "#1e90ff",
+        fillOpacity: 0.25
+      });
+      return poly;
+    }
+
+    function ensureOverlay(item) {
+      if (overlays.has(item.uid)) return overlays.get(item.uid);
+      const poly = buildPolygon(item);
+      overlays.set(item.uid, poly);
+      return poly;
+    }
+
+    function setVisible(item, visible) {
+      const poly = ensureOverlay(item);
+      if (visible) {
+        map.addOverlay(poly);
+      } else {
+        map.removeOverlay(poly);
+      }
+    }
+
+    function fitViewport() {
+      const polys = [];
+      overlays.forEach((poly) => {
+        // 仅对当前在地图上的 overlay 生效
+        // 百度 Map API 无直接判断是否已 addOverlay，这里用 getMap() 规避
+        if (poly.getMap && poly.getMap()) polys.push(poly);
+      });
+      if (polys.length === 0) return;
+      const bounds = polys[0].getBounds();
+      for (let i = 1; i < polys.length; i++) {
+        bounds.extend(polys[i].getBounds().getSouthWest());
+        bounds.extend(polys[i].getBounds().getNorthEast());
+      }
+      map.setViewport(bounds);
+    }
+
+    const listEl = document.getElementById("list");
+    items.forEach((item, idx) => {
+      const row = document.createElement("div");
+      row.className = "row";
+
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.checked = false;
+      cb.addEventListener("change", () => {
+        setVisible(item, cb.checked);
+      });
+
+      const name = document.createElement("div");
+      name.className = "name";
+      name.title = item.name + " (" + item.uid + ")";
+      name.textContent = (idx+1) + ". " + item.name + "  [" + item.point_count + "点]";
+      name.addEventListener("click", () => {
+        const poly = ensureOverlay(item);
+        map.addOverlay(poly);
+        cb.checked = true;
+        map.setViewport(poly.getBounds());
+      });
+
+      row.appendChild(cb);
+      row.appendChild(name);
+      listEl.appendChild(row);
+    });
+
+    document.getElementById("btnAll").addEventListener("click", () => {
+      listEl.querySelectorAll("input[type=checkbox]").forEach((cb, i) => {
+        if (!cb.checked) {
+          cb.checked = true;
+          setVisible(items[i], true);
+        }
+      });
+      fitViewport();
+    });
+
+    document.getElementById("btnNone").addEventListener("click", () => {
+      listEl.querySelectorAll("input[type=checkbox]").forEach((cb, i) => {
+        if (cb.checked) {
+          cb.checked = false;
+          setVisible(items[i], false);
+        }
+      });
+    });
+
+    document.getElementById("btnFit").addEventListener("click", () => {
+      fitViewport();
+    });
+  </script>
+</body>
+</html>
