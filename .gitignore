@@ -4,3 +4,11 @@
 # Python 缓存
 __pycache__/
 *.pyc
+
+# IDE
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# 空文件
+null
