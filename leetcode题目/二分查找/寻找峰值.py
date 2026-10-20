@@ -89,17 +89,30 @@ class Solution:
                 return mid
 
 
+    def findPeakElement2(self, nums: List[int]) -> int:
+        l, r = 0, len(nums) - 1
+
+        while l < r:
+            mid = l + (r - l) // 2
+
+            if nums[mid] < nums[mid + 1]:
+                l = mid + 1
+            else:
+                r = mid
+
+        return l
+
 
 if __name__=="__main__":
     solution=Solution()
-    if False:
-        index=solution.findPeakElement([1,2,3,1])
+    if True:
+        index=solution.findPeakElement2([1,2,3,1])
         print(index)
-        index=solution.findPeakElement([1,2,1,3,5,6,4])
+        index=solution.findPeakElement2([1,2,1,3,5,6,4])
         print(index)
     if True:
-        index=solution.findPeakElement([3,1,2])
+        index=solution.findPeakElement2([3,1,2])
         print(index)
     if True:
-        index=solution.findPeakElement([6,5,4,3,2,3,2])
+        index=solution.findPeakElement2([6,5,4,3,2,3,2])
         print(index)
