@@ -10,7 +10,7 @@ self-attention又称之为自注意力机制，是一种向量自己给自己进
 
 我们先看下tramsormer的框架图
 
-![img](https://pic4.zhimg.com/v2-f6380627207ff4d1e72addfafeaff0bb_b.jpg)
+![transformer框架图](./img/transformer框架图.png)
 
 可以看出transformer中使用了第一个是多头注意力机制的，第一个是使用了masked的多头注意力机制。
 
@@ -20,7 +20,7 @@ self-attention又称之为自注意力机制，是一种向量自己给自己进
 
 ​		Transformer 中单词的输入表示 **x**由**单词 Embedding** 和**位置 Embedding** （Positional Encoding）相加得到。
 
-​		![](./img/transformer输入表示.jpg)
+![](./img/transformer输入表示.jpg)
 
 #### (2) 词embedding
 
@@ -201,7 +201,7 @@ $$
 
 Masked的实现机制其实很简单，如图：
 
-![img](https://pic3.zhimg.com/80/v2-eccc5788538f9d5bb8e523c690ffd8e8_720w.jpg?source=1940ef5c)
+![masked机制](./img/masked机制.jpg)
 
 
 
@@ -211,7 +211,7 @@ Masked的实现机制其实很简单，如图：
 
 先看一个图 ,图中很好的演示了什么是多头注意力机制。采用多头的机制就和cnn中的卷积一样，是为了从不同视角去衡量一个词向量或者字向量的表现形态。采用多头可以说就是从不同的视角去感受词或者字的向量空间。
 
-​	![](./img/9.jpg)
+![](./img/9.jpg)
 
 
 
@@ -502,7 +502,7 @@ hidden_size：wq以后的输出维度 为768
 
 1、embedding层
 
-![img](https://pic2.zhimg.com/80/v2-c4a7266627bf670d258cba473ff0b901_1440w.webp)
+![embedding层](./img/embedding层.webp)
 
 经过embedding以后的 [seq_len,768]
 
@@ -514,7 +514,7 @@ hidden_size：wq以后的输出维度 为768
 
 输入 [seq_len,768] 输出 [seq_len,768]
 
-![img](https://pic3.zhimg.com/80/v2-f0b9facb77b8412842e689a54a9c5872_1440w.webp)
+![自注意力机制](./img/自注意力机制.webp)
 
 multi-head因为分成12份
 
@@ -532,7 +532,7 @@ multi-head因为分成12份
 
 **3、线性变换层和残差和**
 
-![img](https://pic3.zhimg.com/80/v2-af0e50f9bd250655d7ba9e5d46fcccde_1440w.webp)
+![线性变换层](./img/线性变换层.webp)
 
 **（3）normer**
 
