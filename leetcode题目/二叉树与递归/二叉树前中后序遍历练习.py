@@ -34,7 +34,26 @@ class Solution:
             dfs(root.left)
             dfs(root.right)
         dfs(root)
-
+    def midTraversal(self,root: Optional[TreeNode])-> List[int]:
+        if root==None:
+            return []
+        def dfs(root):
+            if root==None:
+                return
+            dfs(root.left)
+            self.traver_lis.append(root.val)
+            dfs(root.right)
+        dfs(root)
+    def backTraversal(self,root: Optional[TreeNode])-> List[int]:
+        if root==None:
+            return []
+        def dfs(root):
+            if root==None:
+                return
+            dfs(root.left)
+            dfs(root.right)
+            self.traver_lis.append(root.val)
+        dfs(root)
 
 if __name__=="__main__":
     node1 = TreeNode("A")
@@ -60,4 +79,10 @@ if __name__=="__main__":
     solution=Solution()
     if True:
         solution.preorderTraversal(node1)
+        print(solution.traver_lis)
+        solution.traver_lis=[]
+        solution.midTraversal(node1)
+        print(solution.traver_lis)
+        solution.traver_lis=[]
+        solution.backTraversal(node1)
         print(solution.traver_lis)
