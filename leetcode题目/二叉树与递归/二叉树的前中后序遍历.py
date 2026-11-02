@@ -234,7 +234,7 @@ if __name__=="__main__":
 
 
     solution=Solution()
-    if False:
+    if True:
         solution.preorderTraversal(node1)
         print(solution.traver_lis)
         solution.traver_lis=[]
