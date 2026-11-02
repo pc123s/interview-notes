@@ -64,7 +64,7 @@ import math
 from typing import *
 class Solution:
 
-    import math
+
     def searRevertIndex(self,arr):
         '''
         l+(r-l)//2 更倾向于在左边去找数
