@@ -1,6 +1,18 @@
   一、模型微调
 
-## 1 P-tuning
+大模型的调参一般分为两种：一种完全训练，也就是我们说的大模型的自回归训练。第二种，就是我们所说的微调。
+
+
+
+## 1、部分调参
+
+我们只需要训练模型的一部分层，比如我们只调最后几层，只调模型的attention层，冻结模型的backbone层，只训练任务头。
+
+其实这种比较适合中等资源的参数，可以采用部分参数调参。
+
+
+
+## 1 P-tuning（Prefix Tuning）
 
 ### 1.1 prompt 技术简介
 
@@ -77,6 +89,22 @@ prefix-tuning为一种轻量级的提示学习方法。
 https://arxiv.org/pdf/2110.07602.pdf
 
 ![](./img/3.JPG)
+
+p-tuning大致分为两类，prompt-tuning和p-tuning,prompt-tuning是不需要用户手写提示词，而是在模型前面添加一组连续的向量，训练时只更新这组向量，模型整体冻结。
+
+prompt-tuning:先在前面添加若干虚拟token,每个虚拟token对应一个可训练的向量。训练时我们只需要优化这个像， 
+
+p-tuning-v1:相当于prmpt-tuning的升级版本。即不只是去训练前面的embedding,而是在前面添加一个小的网络，如(lstm/mlp)来生成对应的prompt向量。
+
+p-tuning-v2:相当于prompt-tuning的升级版本。重点变为深层注入，不只是提示词前面注入向量，而是gpt的每一层都注入向量。
+
+### 问题1：为什么要用 LSTM 生成，而不是直接学
+
+因为直接学习向量，没有经过完整的模型迭代，相当于整体没有重参数化。可以想象成embedding向量像是一堆旋钮，lstm做了一个控制台。
+
+
+
+
 
 
 
@@ -196,6 +224,26 @@ https://blog.csdn.net/2301_77818837/article/details/135355919
 
 优点：1、和lora一样也是在transformer中添加层，所以可以迭代的参数很少，迭代的速度快，要求的显存小。
 
+2、模块化，Adapter 是一个独立的小模块，可以很方便地：
+
+- 一个任务一个 adapter
+- 多个任务切换不同 adapter
+- 共享同一个基座模型
+
+3、适合做任务隔离
+
+其实adapter最大的优点就是可以做任务隔离，不同任务的 adapter 可以分开保存、分开管理，互不影响。
+
+这在企业场景里很有价值，比如：
+
+- 法务一个 adapter
+- 医疗一个 adapter
+- 客服一个 adapter
+
+这对多任务、多客户、多场景部署很友好。其实这点lora很相似。
+
+
+
 缺点：这个缺点很明显：1、这个添加层相比于lora来说是串行的，推理速度慢。
 
 2、保存模型时需要保存整个的模型参数。lora只需要保存自己的模型参数。
@@ -203,6 +251,10 @@ https://blog.csdn.net/2301_77818837/article/details/135355919
 3、同样训练的参数量决定了自己微调的上限大小，不能用过大的数据进行微调。
 
 
+
+整体来说lora其实比adater更好，因为不需要改forward参数。并且整个权重独立于模型，不需要整体将模型拆开，训练时直接合并即可。
+
+（2）目前开源的项目多， PEFT支持的好。
 
 ## 4、p-tuning、lora、adapter tuing有什么不同
 
@@ -973,7 +1025,7 @@ GPT是单向的，只使用了**前文**来预测下一个单词。 BERT是双�
 
 点4：**模型结构不同**
 
-bert采用的多层的transformers，采用的encoder和decoder的结构。而gpt则只采用了decoder的结构。
+bert采用的多层的transformers，采用的encoder的结构。而gpt则只采用了decoder的结构。
 
 gpt和bert的两者区别：
 
