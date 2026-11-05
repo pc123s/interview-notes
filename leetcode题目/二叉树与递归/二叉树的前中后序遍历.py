@@ -77,6 +77,16 @@ stack=[1,2,4],state=[[T,F,F],[T,F,F],[F,F,F]]
 向左 stack[-1].left=None state[-1].left=True. 向右 stack[-1].right=None state[-1].right=True.
 否则 state[-1].left==True and state[-1].left==True, stack.pop() state.pop() 记录 arr=[4],继续判断
 
+例子中的二叉树
+#        A
+#      /   \
+#     B     C
+#    / \   / \
+#   D  E  F  G
+#  / \
+# H   I
+例子中的二叉树
+
 '''
 from typing import *
 class TreeNode:

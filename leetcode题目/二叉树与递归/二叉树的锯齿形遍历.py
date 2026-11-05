@@ -20,8 +20,25 @@ https://zhuanlan.zhihu.com/p/73438175
 思路：
 遍历看当时的元素是在奇数层还是偶数层，偶数层的话需要反转插入的顺序
 创建两个栈，一个入最新的元素，一个收集最新元素输出的元素，
+
+#        A
+#      /   \
+#     B     C
+#    / \   / \
+#   D  E  F  G
+#  / \
+# H   I
+[
+  [A],
+  [C, B],
+  [D, E, F, G],
+  [I, H]
+]
+
+
 '''
 from typing import *
+from collections import deque
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
@@ -34,25 +51,24 @@ class Solution:
     def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:
         if root==None:
             return  self.tranver_lis
-        stack1=[] #如最新的元素
-        stack2=[] #收集最新元素的输出
-        stack1.append(root)
-        count=1 # 记录层数，看在奇数层还是偶数层
-        while stack1 or stack2:
-            #如果是偶数，反转list
-            if count % 2 == 0:
-                stack1=stack1[::-1]            #
-            while stack1:
-                cNode=stack1.pop(0)
-                self.tranver_lis.append(cNode.val)
-                stack2.append(cNode)
-            while stack2:
-                cNode_insert=stack2.pop(0)
-                if cNode_insert.left:
-                    stack1.append(cNode_insert.left)
-                if cNode_insert.right:
-                    stack1.append(cNode_insert.right)
-            count+=1
+        q=deque([root])
+        flag=False # False 从左到右，True 从右到左
+
+        while q:
+            level_size = len(q)
+            level = []
+            for _ in range(level_size):
+                a=q.popleft()
+                level.append(a.val)
+                if a.left!=None:
+                    q.append(a.left)
+                if a.right!=None:
+                    q.append(a.right)
+            if flag:
+                level=level[::-1]
+            flag = not flag
+            self.tranver_lis.append(level)
+
         return self.tranver_lis
 
 if __name__=="__main__":
