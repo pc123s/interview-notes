@@ -34,8 +34,6 @@ https://zhuanlan.zhihu.com/p/73438175
   [D, E, F, G],
   [I, H]
 ]
-
-
 '''
 from typing import *
 from collections import deque
@@ -83,13 +81,16 @@ if __name__=="__main__":
     node8 = TreeNode("H")
     node9 = TreeNode("I")
 
-    node1.left=node2
-    node1.right=node3
-    node2.left=node4
-    node2.right=node5
-    node4.left=node6
-    node4.right=node7
-    node7.left = node8
-    node7.right = node9
+    node1.left = node2
+    node1.right = node3
+
+    node2.left = node4
+    node2.right = node5
+
+    node3.left = node6
+    node3.right = node7
+
+    node4.left = node8
+    node4.right = node9
     res=solution.zigzagLevelOrder(node1)
     print(res)
