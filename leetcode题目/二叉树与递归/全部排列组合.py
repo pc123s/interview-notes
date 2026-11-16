@@ -10,6 +10,10 @@ test_list=[[1,2,3],[1],[2,3,4],[5,6,7]]
 combinations = list(itertools.product(*test_list))
 print(combinations)
 
+test_list=[[1,2,3],[4,5,6]]
+combinations = list(itertools.product(*test_list))
+print(combinations)
+
 # 方法2：采用递归和回溯算法
 def get_combinations(test_list, index, curr_comb, all_comb):
     '''

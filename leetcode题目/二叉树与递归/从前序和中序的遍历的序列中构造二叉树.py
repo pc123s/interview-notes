@@ -91,7 +91,7 @@ class Solution:
             left=buildTree_dfs(preorder[1:1+index],left_area)
             right=buildTree_dfs(preorder[1+index:],right_area)
             return TreeNode(a,left,right)
-        node=buildTree_dfs(preorder,inorder,map)
+        node=buildTree_dfs(preorder,inorder)
         return node
 
     def buildTree1(self, preorder: List[int], inorder: List[int]) -> TreeNode:
