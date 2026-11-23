@@ -36,12 +36,15 @@ class Solution:
         preRoot=TreeNode(-1)
         preRootCopy=preRoot
         n=len(self.path_record)
-        for i in range(n):
-            preRoot.right=self.path_record[i]
-            preRoot.left=None
-            preRoot=self.path_record[i]
-        return preRootCopy.left
-if __name__=='__main__':
+        for i in range(n-1):
+            self.path_record[i].right = self.path_record[i + 1]
+            self.path_record[i].left = None
+
+        self.path_record[-1].left = None
+        self.path_record[-1].right = None
+
+
+if __name__ == '__main__':
     node1 = TreeNode(1)
     node2 = TreeNode(2)
     node4_1 = TreeNode(4)
@@ -52,6 +55,7 @@ if __name__=='__main__':
     node8 = TreeNode(8)
     node11 = TreeNode(11)
     node13 = TreeNode(13)
+
     node5.left = node4_1
     node5.right = node8
     node4_1.left = node11
@@ -61,8 +65,40 @@ if __name__=='__main__':
     node11.right = node2
     node4_2.left = node5_1
     node4_2.right = node1
-    solution=Solution()
-    preRoot=solution.flatten(node5)
-    while preRoot:
-        print(preRoot.val)
-        preRoot=preRoot.left
+    '''
+        5
+       / \
+      4   8
+     /   / \
+    11  13  4
+   / \     / \
+  7   2   5   1
+ 
+    5
+     \
+      4
+       \
+        11
+          \
+           7
+            \
+             2
+              \
+               8
+                \
+                 13
+                   \
+                    4
+                     \
+                      5
+                       \
+                        1
+    '''
+
+    solution = Solution()
+    solution.flatten(node5)
+
+    cur = node5
+    while cur:
+        print(cur.val)
+        cur = cur.right
